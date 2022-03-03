@@ -71,7 +71,7 @@ def populate_stats():
     logger.debug(f'Total number of positive tests: {num_positive_test}. . TraceID: {trace_id}')
     logger.debug(f'Total number of negative tests: {num_negative_test}. TraceID: {trace_id}')
     logger.debug(f'Age group with the most positive cases{highest_positive_occuring_age}. TraceID: {trace_id}')
-
+    print("\n\n i am positive tests",num_positive_test)
     session = DB_SESSION()
     stat = Stats(num_tests_results, num_users, num_positive_test, num_negative_test, highest_positive_occuring_age, current_time)
     """    stats = Stats(stats["num_tests_results"],
