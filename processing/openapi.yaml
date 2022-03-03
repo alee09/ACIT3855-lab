@@ -1,0 +1,64 @@
+openapi: 3.0.0
+info:
+  description: This API recieves reading events from Covid rapid tests.
+  version: "1.0.0"
+  title: Rapid Test Tracker API
+  contact:
+    email: ALee549@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+
+paths:
+  /stats:
+    get:
+      summary: Gets the event stats
+      operationId: app.get_stats
+      description: Gets rapid test and user data processed statistics
+      responses:
+        '200':
+          description: Successfully returned a  list of rapid test and user events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  
+components:
+  schemas:
+    #components/schemas/ReadingStats'
+    ReadingStats:
+      required:
+      - num_tests_results
+      - num_users
+      - num_positive_tests
+      - num_negative_tests
+      - highest_postive_occuring_age
+      properties:
+        num_tests_results:
+          type: integer
+          example: 3000
+        num_users:
+          type: integer
+          example: 2500
+        num_postivie_tests:
+          type: integer
+          example: 2000
+        num_negative_tests:
+          type: integer
+          example: 1000
+        highest_postive_occuring_age:
+          type: integer
+          example: 27
+      type: object
+

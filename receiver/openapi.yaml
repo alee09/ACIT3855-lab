@@ -1,0 +1,181 @@
+openapi: 3.0.0
+
+info:
+  description: This API recieves reading events from Covid rapid tests.
+  version: "1.0.0"
+  title: Rapid Test Tracker API
+  contact:
+    email: ALee549@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+# tags:
+  # - name: admins
+  #   description: Secured Admin-only calls
+  # - name: developers
+  #   description: Operations available to regular developers
+paths:
+  /readings/rapid-test:
+    # get:
+    #   tags:
+    #     - developers
+    #   summary: searches inventory
+    #   operationId: searchInventory
+    #   description: |
+    #     By passing in the appropriate options, you can search for
+    #     available inventory in the system
+    #   parameters:
+    #     - in: query
+    #       name: searchString
+    #       description: pass an optional search string for looking up inventory
+    #       required: false
+    #       schema:
+    #         type: string
+    #     - in: query
+    #       name: skip
+    #       description: number of records to skip for pagination
+    #       schema:
+    #         type: integer
+    #         format: int32
+    #         minimum: 0
+    #     - in: query
+    #       name: limit
+    #       description: maximum number of records to return
+    #       schema:
+    #         type: integer
+    #         format: int32
+    #         minimum: 0
+    #         maximum: 50
+    #   responses:
+    #     '200':
+    #       description: search results matching criteria
+    #       content:
+    #         application/json:
+    #           schema:
+    #             type: array
+    #             items:
+    #               $ref: '#/components/schemas/InventoryItem'
+    #     '400':
+    #       description: bad input parameter
+    post:
+      summary: reports a rapid test reading
+      operationId: app.report_rapid_test_reading
+      description: Adds a rapid test reading into the system
+      responses:
+        '201':
+          description: item created
+        '400':
+          description: 'invalid input, object invalid'
+        
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/RapidTestReading'
+        description: Inventory item to add
+  /user/data:
+    post:
+      summary: allows users to register their data
+      operationId: app.user_data
+      description: adds users into the system
+      responses:
+        '201':
+          description: user created
+        '400':
+          description: 'invalid input, object invalid'
+        '409':
+          description: This user exists
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UserData'
+        description: User added to system
+components:
+  schemas:
+    RapidTestReading:
+      required:
+        - personal_health_number
+        - manufacturer
+        - result_date
+        - rapid_test_result
+        - num_tests_taken
+      properties:
+        personal_health_number:
+          type: string
+          example: '0000 000 000'
+        manufacturer:
+          $ref: '#/components/schemas/Manufacturer'
+        result_date:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+        rapid_test_result:
+          type: string
+          example: 'yes'
+        num_tests_taken:
+          type: integer
+          example: 3
+      type: object
+          
+        
+          
+
+    UserData:
+      required:
+        - first_name
+        - last_name
+        - postal_code
+        - street
+        - city
+        - province
+        - country
+        - age
+        - personal_health_number
+        - password
+      properties:
+        first_name:
+          type: string
+          example: Adrian
+        last_name:
+          type: string
+          example: Lee
+        postal_code:
+          type: string
+          example: V6H 9G3
+        street:
+          type: string
+          example: '49th ave'
+        city:
+          type: string
+          example: 'Vancouver'
+        province:
+          type: string
+          example: 'British Columbia'
+        country:
+          type: string
+          example: 'Canada'
+        age:
+          type: number
+          example: '27'
+        personal_health_number:
+          type: string
+          example: '0000 000 000'
+        #want users to be able to log into the system to view their data at a later time. need some form of authentication
+        #the user name would be the PHN and the password would be the authoriziation. 
+        password:
+          type: string
+          
+    Manufacturer:
+      required:
+        - manName
+        - homePage
+      properties:
+        manName:
+          type: string
+          example: Laipac Technology
+        homePage:
+          type: string
+          format: url
+          example: 'https://www.mobihealthnews.com'
+      type: object

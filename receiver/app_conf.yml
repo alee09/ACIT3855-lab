@@ -1,0 +1,12 @@
+version: 1
+eventstore1:
+  url: http://localhost:8090/readings/rapid-test
+eventstore2:
+  url: http://localhost:8090/user/data
+eventstore3:
+  url: http://localhost:8100/stats
+
+events: 
+hostname: acit3855-asynchronousmessaging.eastus.cloudapp.azure.com
+port: 9092 
+topic: events 

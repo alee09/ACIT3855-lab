@@ -1,0 +1,731 @@
+2022-02-24 02:17:40,770 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:14:32.297363', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 000', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': '8da85d3c-955a-11ec-b9f1-84c5a6bbb7d6'}}
+2022-02-24 02:29:01,066 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:29:00.938102', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 055 000', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': '90864b42-955c-11ec-855a-84c5a6bbb7d6'}}
+2022-02-24 02:34:42,256 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:34:42.182084', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 000', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': '600fcf39-955d-11ec-b64c-84c5a6bbb7d6'}}
+2022-02-24 02:36:58,031 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:34:42.182084', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 000', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': '600fcf39-955d-11ec-b64c-84c5a6bbb7d6'}}
+2022-02-24 02:36:59,046 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:35:50.595891', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 071', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': '88d5e5ef-955d-11ec-a172-84c5a6bbb7d6'}}
+2022-02-24 02:37:00,187 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:37:00.050377', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 071', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': 'b244b15b-955d-11ec-922f-84c5a6bbb7d6'}}
+2022-02-24 02:37:19,669 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:37:00.050377', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 071', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': 'b244b15b-955d-11ec-922f-84c5a6bbb7d6'}}
+2022-02-24 02:38:03,209 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:37:00.050377', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 071', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': 'b244b15b-955d-11ec-922f-84c5a6bbb7d6'}}
+2022-02-24 02:38:48,425 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:37:00.050377', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 071', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': 'b244b15b-955d-11ec-922f-84c5a6bbb7d6'}}
+2022-02-24 02:39:28,103 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:37:00.050377', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 071', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': 'b244b15b-955d-11ec-922f-84c5a6bbb7d6'}}
+2022-02-24 02:39:29,115 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:37:52.454701', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 088', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': 'd1761bf9-955d-11ec-859d-84c5a6bbb7d6'}}
+2022-02-24 02:39:59,393 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:39:59.323636', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 014', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': '1d1a9a88-955e-11ec-892d-84c5a6bbb7d6'}}
+2022-02-24 02:40:25,286 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:40:25.209365', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 054', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': '2c861a66-955e-11ec-8985-84c5a6bbb7d6'}}
+2022-02-24 02:41:41,715 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:41:41.572284', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 034', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': '5a0a11f6-955e-11ec-a775-84c5a6bbb7d6'}}
+2022-02-24 02:42:53,785 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:42:53.712212', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 024', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': '85084e00-955e-11ec-8906-84c5a6bbb7d6'}}
+2022-02-24 02:42:53,815 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:42:54,747 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:42:56,796 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:42:57,002 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:43:03,843 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:04,042 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:43:06,106 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:06,302 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:43:08,821 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:09,024 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:43:11,073 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:11,271 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:43:13,808 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:14,005 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:43:16,051 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:16,253 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:43:18,811 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:19,009 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:43:21,064 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:21,264 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:43:23,807 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:24,008 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:43:26,064 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:26,266 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:43:28,825 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:29,026 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:43:31,069 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:31,268 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:43:33,839 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:34,039 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:43:36,090 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:36,288 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:43:38,829 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:39,028 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:43:41,069 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:41,269 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:43:43,816 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:44,016 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:43:46,067 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:46,266 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:43:48,813 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:49,013 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:43:51,051 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:51,253 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:43:53,817 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:54,019 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:43:56,076 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:56,279 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:43:58,824 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:43:59,021 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:44:01,067 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:01,265 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:44:03,813 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:04,012 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:44:06,083 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:06,284 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:44:08,833 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:09,034 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:44:11,093 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:11,289 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:44:13,824 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:14,024 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:44:16,065 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:16,268 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:44:18,812 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:19,009 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:44:21,063 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:21,264 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:44:23,822 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:24,022 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:44:26,068 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:26,306 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:44:28,803 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:29,005 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:44:31,051 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:31,266 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:44:33,811 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:34,009 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:44:36,061 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:36,269 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:44:38,815 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:39,012 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:44:41,068 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:41,266 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:44:43,830 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:44,027 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:44:46,070 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:46,266 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:44:48,818 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:49,015 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:44:51,053 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:51,252 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:44:53,828 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:54,028 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:44:56,081 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:56,286 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:44:58,805 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:44:59,003 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:45:01,052 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:01,253 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:45:03,814 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:04,015 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:45:06,070 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:06,270 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:45:08,825 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:09,020 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:45:11,074 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:11,270 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:45:13,832 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:14,028 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:45:16,088 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:16,288 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:45:18,821 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:19,017 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:45:21,048 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:21,248 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:45:23,820 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:24,019 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 6 results
+2022-02-24 02:45:24,623 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 02:45:24.553208', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 124', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': 'def232ea-955e-11ec-ab41-84c5a6bbb7d6'}}
+2022-02-24 02:45:26,065 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:26,264 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:45:28,823 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:29,020 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:45:31,063 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:31,259 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:45:33,815 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:34,012 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:45:36,078 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:36,286 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:45:38,812 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:39,012 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:45:41,065 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:45:41,263 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:47:19,880 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:47:20,079 - basicLogger - INFO - Query for rapid test readings after 2022-02-10 00:43:31.863135 returns 7 results
+2022-02-24 02:48:19,404 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:19,606 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:48:21,657 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:21,857 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:48:24,394 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:24,597 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:48:26,649 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:26,858 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:48:29,385 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:29,583 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:48:31,630 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:31,831 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:48:34,384 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:34,582 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:48:36,632 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:36,829 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:48:39,375 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:39,577 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:48:41,627 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:41,822 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:48:44,383 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:44,581 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:48:46,644 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:46,847 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:48:49,396 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:49,595 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:48:51,663 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:51,858 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:48:54,377 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:54,575 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:48:56,631 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:56,833 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:48:59,394 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:48:59,592 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:49:01,647 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:01,851 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:49:04,387 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:04,585 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:49:06,645 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:06,846 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:49:09,375 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:09,579 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:49:11,640 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:11,852 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:49:23,761 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:23,966 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:49:26,015 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:26,217 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:49:28,764 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:28,966 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:49:31,027 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:31,223 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:49:33,750 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:33,948 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:49:35,987 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:36,184 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:49:38,761 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:38,963 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:49:41,002 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:41,199 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:49:43,766 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:43,963 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:49:46,019 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:46,214 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:49:48,754 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:48,950 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:49:51,003 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:51,201 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:49:53,753 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:53,951 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:49:55,987 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:56,186 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:49:58,750 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:49:58,950 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:50:01,004 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:01,201 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:50:03,745 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:03,945 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:50:05,990 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:06,187 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:50:08,767 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:08,964 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:50:11,014 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:11,217 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:50:13,777 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:13,989 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:50:16,060 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:16,264 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:50:18,771 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:18,970 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:50:21,025 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:21,223 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:50:23,754 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:23,957 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:50:26,003 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:26,203 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:50:28,764 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:28,964 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:50:31,011 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:31,210 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:50:33,780 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:33,982 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:50:36,040 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:36,237 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:50:38,759 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:38,958 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:50:41,005 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:41,204 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:50:43,758 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:43,955 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:50:46,015 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:46,214 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:50:48,751 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:48,949 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:50:51,006 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:51,209 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:50:53,754 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:53,951 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:50:56,007 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:56,206 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:50:58,749 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:50:58,950 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:51:01,004 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:01,207 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:51:03,761 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:03,958 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:51:06,013 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:06,212 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:51:08,761 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:08,960 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:51:11,010 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:11,208 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:51:13,752 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:13,947 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:51:16,003 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:16,202 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:51:18,760 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:18,957 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:51:21,007 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:21,207 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:51:23,753 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:23,952 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:51:26,001 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:26,200 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:51:28,769 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:28,966 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:51:31,022 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:31,223 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:51:33,758 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:33,957 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:51:36,011 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:36,206 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:51:38,750 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:38,947 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:51:40,977 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:41,178 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:51:43,748 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:43,948 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:51:46,000 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:46,198 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:51:48,782 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:48,980 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:51:51,030 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:51,231 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:51:53,752 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:53,949 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:51:56,003 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:56,203 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:51:58,744 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:51:58,945 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:52:01,002 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:01,200 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:52:11,673 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:11,872 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:52:13,924 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:14,122 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:52:16,688 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:16,888 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:52:18,935 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:19,133 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:52:21,664 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:21,864 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:52:23,916 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:24,112 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:52:26,656 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:26,855 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:52:28,909 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:29,109 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:52:31,672 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:31,870 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:52:33,926 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:34,123 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:52:36,676 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:36,874 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:52:38,930 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:39,126 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:52:41,664 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:41,868 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:52:43,931 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:44,128 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:52:46,659 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:46,859 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:52:48,925 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:49,123 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:52:51,671 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:51,872 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:52:53,929 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:54,129 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:52:56,678 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:56,877 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:52:58,945 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:52:59,148 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:53:01,674 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:53:01,869 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:53:03,922 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:53:04,121 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:53:06,663 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:53:06,859 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:53:08,913 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:53:09,111 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:53:19,320 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:53:19,518 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:53:21,560 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:53:21,759 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:53:24,320 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:53:24,516 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:53:26,564 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:53:26,762 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:54:15,717 - basicLogger - INFO - Message: {'type': 'user', 'datetime': '2022-02-24 02:54:15.647155', 'payload': {'age': 27, 'city': 'Vancouver', 'country': 'Canada', 'first_name': 'Adrian', 'last_name': 'Lee', 'password': 'string', 'personal_health_number': '0000 000 014', 'postal_code': 'V6H 9G3', 'province': 'British Columbia', 'street': '49th ave', 'trace_id': '1b7faa76-9560-11ec-8ff1-84c5a6bbb7d6'}}
+2022-02-24 02:54:31,597 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:54:31,797 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:54:33,826 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:54:34,024 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:54:36,599 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:54:36,799 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:54:38,844 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:54:39,046 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:54:41,576 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:54:41,780 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:54:43,832 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:54:44,029 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:54:46,575 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:54:46,778 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:54:48,827 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:54:49,025 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:54:51,588 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:54:51,790 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:54:53,843 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:54:54,040 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:54:56,567 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:54:56,767 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:54:58,817 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:54:59,013 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:55:01,583 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:01,787 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:55:03,832 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:04,029 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:55:06,594 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:06,793 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:55:08,831 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:09,028 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:55:11,582 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:11,781 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:55:13,833 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:14,032 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:55:16,590 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:16,787 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:55:18,842 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:19,039 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:55:21,570 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:21,767 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:55:23,822 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:24,020 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:55:26,585 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:26,784 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:55:28,853 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:29,057 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:55:31,600 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:31,801 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:55:33,843 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:34,041 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:55:36,588 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:36,784 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:55:38,839 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:39,036 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:55:41,585 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:41,780 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:55:43,838 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:44,038 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:55:46,578 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:46,780 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:55:48,828 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:49,024 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:55:51,592 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:51,790 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:55:53,851 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:54,054 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 0 results
+2022-02-24 02:55:56,580 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:55:56,782 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:56:16,531 - basicLogger - INFO - Message: {'type': 'user', 'datetime': '2022-02-24 02:54:15.647155', 'payload': {'age': 27, 'city': 'Vancouver', 'country': 'Canada', 'first_name': 'Adrian', 'last_name': 'Lee', 'password': 'string', 'personal_health_number': '0000 000 014', 'postal_code': 'V6H 9G3', 'province': 'British Columbia', 'street': '49th ave', 'trace_id': '1b7faa76-9560-11ec-8ff1-84c5a6bbb7d6'}}
+2022-02-24 02:56:16,589 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:56:17,549 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:56:26,587 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:56:27,570 - basicLogger - INFO - Query for rapid test readings after 2022-02-17 03:47:52.098718 returns 7 results
+2022-02-24 02:56:29,628 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:56:29,829 - basicLogger - INFO - Query for user readings after 2022-02-17 03:47:52.098718 returns 1 results
+2022-02-24 02:56:36,580 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:56:36,788 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:56:38,846 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:56:39,042 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:56:41,599 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:56:41,796 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:56:43,841 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:56:44,037 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:56:46,588 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:56:46,785 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:56:48,831 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:56:49,029 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:56:51,577 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:56:51,780 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:56:53,827 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:56:54,028 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:56:56,585 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:56:56,781 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:56:58,837 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:56:59,034 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:57:01,583 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:01,781 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:57:03,832 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:04,027 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:57:06,580 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:06,779 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:57:08,831 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:09,031 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:57:09,549 - basicLogger - INFO - Message: {'type': 'user', 'datetime': '2022-02-24 02:57:09.426943', 'payload': {'age': 27, 'city': 'Vancouver', 'country': 'Canada', 'first_name': 'Adrian', 'last_name': 'Lee', 'password': 'string', 'personal_health_number': '0000 000 034', 'postal_code': 'V6H 9G3', 'province': 'British Columbia', 'street': '49th ave', 'trace_id': '8315166c-9560-11ec-bdc0-84c5a6bbb7d6'}}
+2022-02-24 02:57:11,580 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:11,784 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:57:13,851 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:14,051 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:57:16,573 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:16,768 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:57:18,815 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:19,024 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:57:21,596 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:21,798 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:57:23,855 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:24,055 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:57:26,588 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:26,787 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:57:28,840 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:29,039 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:57:31,587 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:33,728 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:41,593 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:46,037 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:51,592 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:52,151 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:57:54,200 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:54,395 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:57:56,597 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:56,793 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:57:58,834 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:57:59,032 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:58:01,564 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:01,767 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:58:03,819 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:04,017 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:58:06,570 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:06,779 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:58:08,825 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:09,021 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:58:11,595 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:11,792 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:58:13,839 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:14,042 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:58:16,587 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:16,786 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:58:18,835 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:19,111 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:58:21,596 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:21,848 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:58:23,897 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:24,102 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:58:26,595 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:26,793 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:58:28,847 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:29,046 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:58:31,601 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:31,798 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:58:33,847 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:34,046 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:58:36,584 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:36,782 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:58:38,829 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:39,033 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:58:41,571 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:41,778 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:58:43,828 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:44,025 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:58:46,588 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:46,786 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:58:48,836 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:49,033 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:58:51,590 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:51,790 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:58:53,838 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:54,036 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:58:56,581 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:56,778 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:58:58,834 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:58:59,030 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:59:01,583 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:01,789 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:59:03,840 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:04,041 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:59:06,581 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:06,779 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:59:08,827 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:09,022 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:59:11,598 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:11,792 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:59:13,850 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:14,046 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 02:59:19,623 - basicLogger - INFO - Message: {'type': 'user', 'datetime': '2022-02-24 02:59:01.855251', 'payload': {'age': 27, 'city': 'Vancouver', 'country': 'Canada', 'first_name': 'Adrian', 'last_name': 'Lee', 'password': 'string', 'personal_health_number': '0000 000 024', 'postal_code': 'V6H 9G3', 'province': 'British Columbia', 'street': '49th ave', 'trace_id': 'c61d88f2-9560-11ec-b436-84c5a6bbb7d6'}}
+2022-02-24 02:59:21,595 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:22,544 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:59:24,607 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:24,808 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 02:59:31,580 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:31,778 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:59:33,835 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:34,030 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 02:59:36,574 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:36,778 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:59:38,819 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:39,014 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 02:59:41,576 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:41,780 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:59:43,827 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:44,027 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 02:59:46,612 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:46,806 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:59:48,847 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:49,043 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 02:59:51,584 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:51,781 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:59:53,832 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:54,025 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 02:59:56,592 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:56,791 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 02:59:58,841 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 02:59:59,036 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 03:00:01,605 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:01,800 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 03:00:03,854 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:04,050 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 03:00:06,588 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:06,785 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 03:00:08,837 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:09,032 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 03:00:11,586 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:11,783 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 03:00:13,839 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:14,036 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 03:00:16,585 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:16,781 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 03:00:18,829 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:19,028 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 03:00:21,590 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:21,785 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 03:00:23,834 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:24,035 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 03:00:26,582 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:26,781 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 03:00:28,816 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:29,013 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 03:00:31,565 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:31,764 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 03:00:33,814 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:34,010 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 03:00:36,568 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:36,762 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 0 results
+2022-02-24 03:00:38,576 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 03:00:38.496906', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 024', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': 'ffb33d20-9560-11ec-8a9a-84c5a6bbb7d6'}}
+2022-02-24 03:00:38,831 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:39,033 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 03:00:41,583 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:41,780 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 02:56:24.538960 returns 1 results
+2022-02-24 03:00:43,820 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:44,015 - basicLogger - INFO - Query for user readings after 2022-02-24 02:56:24.538960 returns 2 results
+2022-02-24 03:00:46,578 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:46,778 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:00:48,811 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:49,009 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:00:51,581 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:51,778 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:00:53,830 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:54,038 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:00:56,575 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:56,783 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:00:58,838 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:00:59,034 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:01,583 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:01,782 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:03,843 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:04,039 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:06,593 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:06,790 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:08,849 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:09,049 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:11,587 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:11,788 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:13,841 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:14,038 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:16,585 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:16,784 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:18,828 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:19,023 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:21,565 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:21,760 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:23,816 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:24,013 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:26,558 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:26,756 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:28,819 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:29,013 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:31,591 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:31,787 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:33,845 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:34,051 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:36,594 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:36,791 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:38,842 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:39,036 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:41,595 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:41,809 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:43,857 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:44,057 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:46,594 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:46,792 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:48,849 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:49,043 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:51,590 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:51,787 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:53,846 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:54,043 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:56,586 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:56,786 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:01:58,842 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:01:59,038 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:01,582 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:01,778 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:03,837 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:04,034 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:06,587 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:06,784 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:08,826 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:09,022 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:11,600 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:11,794 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:13,850 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:14,050 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:16,575 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:16,777 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:18,821 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:19,018 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:21,582 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:21,776 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:23,837 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:24,032 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:26,588 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:26,783 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:28,841 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:29,037 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:31,588 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:31,783 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:33,839 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:34,036 - basicLogger - INFO - Query for user readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 03:02:36,592 - basicLogger - INFO - Connecting to DB. Hostname:acit3855-asynchronousmessaging.eastus.cloudapp.azure.com, Port:3306
+2022-02-24 03:02:36,787 - basicLogger - INFO - Query for rapid test readings after 2022-02-24 03:00:39.529325 returns 0 results
+2022-02-24 15:25:00,645 - basicLogger - INFO - Message: {'type': 'rapid_test', 'datetime': '2022-02-24 15:25:00.522069', 'payload': {'manufacturer': {'homePage': 'https://www.mobihealthnews.com', 'manName': 'Laipac Technology'}, 'num_tests_taken': 3, 'personal_health_number': '0000 000 000', 'rapid_test_result': 'yes', 'result_date': '2016-08-29T09:12:33.001000+00:00', 'trace_id': 'fc54124e-95c8-11ec-9ba6-84c5a6bbb7d6'}}
+2022-02-24 15:25:13,282 - basicLogger - INFO - Message: {'type': 'user', 'datetime': '2022-02-24 15:25:10.243335', 'payload': {'age': 27, 'city': 'Vancouver', 'country': 'Canada', 'first_name': 'Adrian', 'last_name': 'Lee', 'password': 'string', 'personal_health_number': '0000 000 000', 'postal_code': 'V6H 9G3', 'province': 'British Columbia', 'street': '49th ave', 'trace_id': '0223ab19-95c9-11ec-a994-84c5a6bbb7d6'}}

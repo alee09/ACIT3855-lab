@@ -1,0 +1,6 @@
+2022-02-24 01:56:01,535 - basicLogger - INFO - Retrieving BP at index 100
+2022-02-24 01:56:02,617 - basicLogger - ERROR - Could not find rapid test result at index 100
+2022-02-24 01:56:11,897 - basicLogger - INFO - Retrieving BP at index 1
+2022-02-24 01:56:22,544 - basicLogger - INFO - Retrieving BP at index 1
+2022-02-24 15:23:19,189 - basicLogger - INFO - Retrieving rapid test at index 1
+2022-02-24 15:23:20,196 - basicLogger - ERROR - Could not find rapid test result at index 1

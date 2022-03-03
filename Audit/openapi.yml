@@ -1,0 +1,168 @@
+openapi: 3.0.0
+info:
+  description: This API recieves reading events from Covid rapid tests.
+  version: "1.0.0"
+  title: Rapid Test Tracker API
+  contact:
+    email: ALee549@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+
+paths:
+  /readings/rapid-test:
+    get:
+      tags:
+        - device
+      summary: gets rapid test
+      operationId: app.get_rapid_test_reading
+      description: gets rapid test reading added after a timestamp
+      parameters:
+        - name: index
+          in: query
+          description: Gets the rapid test at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a list of rapid test events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/RapidTestReading'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+
+
+  /user/data:
+    get:
+      tags:
+        - user
+      summary: gets user data
+      operationId: app.get_user_data
+      description: retrieves users that were created after the inputed timestamp
+      parameters:
+        - name: index
+          in: query
+          description: Gets the user at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a user information
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/UserData'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+components:
+  schemas:
+    RapidTestReading:
+      required:
+        - personal_health_number
+        - manufacturer
+        - result_date
+        - rapid_test_result
+        - num_tests_taken
+        - trace_id
+      properties:
+        personal_health_number:
+          type: string
+          example: '0000 000 000'
+        manufacturer:
+          $ref: '#/components/schemas/Manufacturer'
+        result_date:
+          type: string
+          format: date-time
+          example: "2022-02-10 00:43:31.863135"
+        rapid_test_result:
+          type: string
+          example: 'yes'
+        num_tests_taken:
+          type: integer
+          example: 3
+      type: object
+          
+    UserData:
+      required:
+        - personal_health_number
+        - first_name
+        - last_name
+        - postal_code
+        - street
+        - city
+        - province
+        - country
+        - age
+        - password
+      properties:
+        first_name:
+          type: string
+          example: Adrian
+        last_name:
+          type: string
+          example: Lee
+        postal_code:
+          type: string
+          example: V6H 9G3
+        street:
+          type: string
+          example: '49th ave'
+        city:
+          type: string
+          example: 'Vancouver'
+        province:
+          type: string
+          example: 'British Columbia'
+        country:
+          type: string
+          example: 'Canada'
+        age:
+          type: number
+          example: '27'
+        personal_health_number:
+          type: string
+          example: '0000 000 000'
+        #want users to be able to log into the system to view their data at a later time. need some form of authentication
+        #the user name would be the PHN and the password would be the authoriziation. 
+        password:
+          type: string
+          
+    Manufacturer:
+      required:
+        - manName
+        - homePage
+      properties:
+        manName:
+          type: string
+          example: Laipac Technology
+        homePage:
+          type: string
+          format: url
+          example: 'https://www.mobihealthnews.com'
+      type: object

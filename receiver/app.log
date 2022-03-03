@@ -1,0 +1,481 @@
+2022-02-02 22:50:19,573 - basicLogger - DEBUG - Test
+2022-02-02 22:50:49,698 - basicLogger - INFO - Received event User added request with a trace id of 9df0afea-84bd-11ec-b8dc-84c5a6bbb7d6
+2022-02-02 22:50:49,698 - basicLogger - INFO - Returned event User added response (Id: 9df0afea-84bd-11ec-b8dc-84c5a6bbb7d6 with status 500
+2022-02-02 23:39:23,021 - basicLogger - INFO - Received event User added request with a trace id of 66739d15-84c4-11ec-8164-84c5a6bbb7d6
+2022-02-02 23:39:23,022 - basicLogger - INFO - Returned event User added response (Id: 66739d15-84c4-11ec-8164-84c5a6bbb7d6 with status 500
+2022-02-02 23:55:25,961 - basicLogger - INFO - Received event User added request with a trace id of a461d534-84c6-11ec-8342-84c5a6bbb7d6
+2022-02-02 23:55:25,961 - basicLogger - INFO - Returned event User added response (Id: a461d534-84c6-11ec-8342-84c5a6bbb7d6 with status 201
+2022-02-02 23:56:14,172 - basicLogger - INFO - Received event User added request with a trace id of c12cdfdd-84c6-11ec-ba52-84c5a6bbb7d6
+2022-02-02 23:56:14,173 - basicLogger - INFO - Returned event User added response (Id: c12cdfdd-84c6-11ec-ba52-84c5a6bbb7d6 with status 201
+2022-02-02 23:59:59,685 - basicLogger - INFO - Received event User added request with a trace id of 479557ef-84c7-11ec-a7c5-84c5a6bbb7d6
+2022-02-02 23:59:59,686 - basicLogger - INFO - Returned event User added response (Id: 479557ef-84c7-11ec-a7c5-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:25,916 - basicLogger - INFO - Received event rapid test reading request with a trace id of 26428fac-854e-11ec-a1f5-84c5a6bbb7d6
+2022-02-03 16:05:25,920 - basicLogger - INFO - Returned event rapid test reading response (Id: 26428fac-854e-11ec-a1f5-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:28,022 - basicLogger - INFO - Received event User added request with a trace id of 27916c20-854e-11ec-bfbd-84c5a6bbb7d6
+2022-02-03 16:05:28,025 - basicLogger - INFO - Returned event User added response (Id: 27916c20-854e-11ec-bfbd-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:28,312 - basicLogger - INFO - Received event rapid test reading request with a trace id of 27bf542f-854e-11ec-b63a-84c5a6bbb7d6
+2022-02-03 16:05:28,314 - basicLogger - INFO - Returned event rapid test reading response (Id: 27bf542f-854e-11ec-b63a-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:30,108 - basicLogger - INFO - Received event rapid test reading request with a trace id of 28d218db-854e-11ec-9dcd-84c5a6bbb7d6
+2022-02-03 16:05:30,110 - basicLogger - INFO - Returned event rapid test reading response (Id: 28d218db-854e-11ec-9dcd-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:30,417 - basicLogger - INFO - Received event User added request with a trace id of 28fe2c6b-854e-11ec-a3ac-84c5a6bbb7d6
+2022-02-03 16:05:30,419 - basicLogger - INFO - Returned event User added response (Id: 28fe2c6b-854e-11ec-a3ac-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:32,193 - basicLogger - INFO - Received event User added request with a trace id of 2a104943-854e-11ec-b6bc-84c5a6bbb7d6
+2022-02-03 16:05:32,195 - basicLogger - INFO - Returned event User added response (Id: 2a104943-854e-11ec-b6bc-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:32,506 - basicLogger - INFO - Received event rapid test reading request with a trace id of 2a3f6214-854e-11ec-ad8f-84c5a6bbb7d6
+2022-02-03 16:05:32,509 - basicLogger - INFO - Returned event rapid test reading response (Id: 2a3f6214-854e-11ec-ad8f-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:34,275 - basicLogger - INFO - Received event rapid test reading request with a trace id of 2b4ec481-854e-11ec-8f6f-84c5a6bbb7d6
+2022-02-03 16:05:34,276 - basicLogger - INFO - Returned event rapid test reading response (Id: 2b4ec481-854e-11ec-8f6f-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:34,592 - basicLogger - INFO - Received event User added request with a trace id of 2b7e71b8-854e-11ec-b937-84c5a6bbb7d6
+2022-02-03 16:05:34,594 - basicLogger - INFO - Returned event User added response (Id: 2b7e71b8-854e-11ec-b937-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:36,345 - basicLogger - INFO - Received event User added request with a trace id of 2c8a36fa-854e-11ec-b77d-84c5a6bbb7d6
+2022-02-03 16:05:36,348 - basicLogger - INFO - Returned event User added response (Id: 2c8a36fa-854e-11ec-b77d-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:36,688 - basicLogger - INFO - Received event rapid test reading request with a trace id of 2cbd0584-854e-11ec-9a10-84c5a6bbb7d6
+2022-02-03 16:05:36,691 - basicLogger - INFO - Returned event rapid test reading response (Id: 2cbd0584-854e-11ec-9a10-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:38,440 - basicLogger - INFO - Received event rapid test reading request with a trace id of 2dc7ccd6-854e-11ec-b0ca-84c5a6bbb7d6
+2022-02-03 16:05:38,442 - basicLogger - INFO - Returned event rapid test reading response (Id: 2dc7ccd6-854e-11ec-b0ca-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:38,784 - basicLogger - INFO - Received event User added request with a trace id of 2dfcc311-854e-11ec-a189-84c5a6bbb7d6
+2022-02-03 16:05:38,787 - basicLogger - INFO - Returned event User added response (Id: 2dfcc311-854e-11ec-a189-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:40,528 - basicLogger - INFO - Received event User added request with a trace id of 2f076e9c-854e-11ec-acf8-84c5a6bbb7d6
+2022-02-03 16:05:40,530 - basicLogger - INFO - Returned event User added response (Id: 2f076e9c-854e-11ec-acf8-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:40,885 - basicLogger - INFO - Received event rapid test reading request with a trace id of 2f3c91cc-854e-11ec-9cb4-84c5a6bbb7d6
+2022-02-03 16:05:40,887 - basicLogger - INFO - Returned event rapid test reading response (Id: 2f3c91cc-854e-11ec-9cb4-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:42,631 - basicLogger - INFO - Received event rapid test reading request with a trace id of 3046d3c2-854e-11ec-baf9-84c5a6bbb7d6
+2022-02-03 16:05:42,634 - basicLogger - INFO - Returned event rapid test reading response (Id: 3046d3c2-854e-11ec-baf9-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:42,969 - basicLogger - INFO - Received event User added request with a trace id of 307c95ed-854e-11ec-a041-84c5a6bbb7d6
+2022-02-03 16:05:42,972 - basicLogger - INFO - Returned event User added response (Id: 307c95ed-854e-11ec-a041-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:44,753 - basicLogger - INFO - Received event User added request with a trace id of 3187696e-854e-11ec-b022-84c5a6bbb7d6
+2022-02-03 16:05:44,756 - basicLogger - INFO - Returned event User added response (Id: 3187696e-854e-11ec-b022-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:45,050 - basicLogger - INFO - Received event rapid test reading request with a trace id of 31ba6266-854e-11ec-8eed-84c5a6bbb7d6
+2022-02-03 16:05:45,053 - basicLogger - INFO - Returned event rapid test reading response (Id: 31ba6266-854e-11ec-8eed-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:46,855 - basicLogger - INFO - Received event rapid test reading request with a trace id of 32cc1ec1-854e-11ec-8cda-84c5a6bbb7d6
+2022-02-03 16:05:46,858 - basicLogger - INFO - Returned event rapid test reading response (Id: 32cc1ec1-854e-11ec-8cda-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:47,151 - basicLogger - INFO - Received event User added request with a trace id of 32f7f4f5-854e-11ec-b0e1-84c5a6bbb7d6
+2022-02-03 16:05:47,154 - basicLogger - INFO - Returned event User added response (Id: 32f7f4f5-854e-11ec-b0e1-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:48,948 - basicLogger - INFO - Received event User added request with a trace id of 340bf13c-854e-11ec-b26a-84c5a6bbb7d6
+2022-02-03 16:05:48,950 - basicLogger - INFO - Returned event User added response (Id: 340bf13c-854e-11ec-b26a-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:49,231 - basicLogger - INFO - Received event rapid test reading request with a trace id of 3439013e-854e-11ec-93c1-84c5a6bbb7d6
+2022-02-03 16:05:49,233 - basicLogger - INFO - Returned event rapid test reading response (Id: 3439013e-854e-11ec-93c1-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:51,044 - basicLogger - INFO - Received event rapid test reading request with a trace id of 354af549-854e-11ec-908b-84c5a6bbb7d6
+2022-02-03 16:05:51,055 - basicLogger - INFO - Returned event rapid test reading response (Id: 354af549-854e-11ec-908b-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:51,326 - basicLogger - INFO - Received event User added request with a trace id of 35755e30-854e-11ec-a881-84c5a6bbb7d6
+2022-02-03 16:05:51,328 - basicLogger - INFO - Returned event User added response (Id: 35755e30-854e-11ec-a881-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:53,130 - basicLogger - INFO - Received event User added request with a trace id of 368c8c38-854e-11ec-a18d-84c5a6bbb7d6
+2022-02-03 16:05:53,130 - basicLogger - INFO - Returned event User added response (Id: 368c8c38-854e-11ec-a18d-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:53,427 - basicLogger - INFO - Received event rapid test reading request with a trace id of 36b5951c-854e-11ec-97c8-84c5a6bbb7d6
+2022-02-03 16:05:53,428 - basicLogger - INFO - Returned event rapid test reading response (Id: 36b5951c-854e-11ec-97c8-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:55,170 - basicLogger - INFO - Received event rapid test reading request with a trace id of 37c7133e-854e-11ec-ab87-84c5a6bbb7d6
+2022-02-03 16:05:55,170 - basicLogger - INFO - Returned event rapid test reading response (Id: 37c7133e-854e-11ec-ab87-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:55,510 - basicLogger - INFO - Received event User added request with a trace id of 37f6a516-854e-11ec-b32a-84c5a6bbb7d6
+2022-02-03 16:05:55,512 - basicLogger - INFO - Returned event User added response (Id: 37f6a516-854e-11ec-b32a-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:57,260 - basicLogger - INFO - Received event User added request with a trace id of 38fe482d-854e-11ec-a767-84c5a6bbb7d6
+2022-02-03 16:05:57,262 - basicLogger - INFO - Returned event User added response (Id: 38fe482d-854e-11ec-a767-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:57,586 - basicLogger - INFO - Received event rapid test reading request with a trace id of 393345cc-854e-11ec-b8c0-84c5a6bbb7d6
+2022-02-03 16:05:57,587 - basicLogger - INFO - Returned event rapid test reading response (Id: 393345cc-854e-11ec-b8c0-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:59,340 - basicLogger - INFO - Received event rapid test reading request with a trace id of 3a3e22db-854e-11ec-b6ad-84c5a6bbb7d6
+2022-02-03 16:05:59,341 - basicLogger - INFO - Returned event rapid test reading response (Id: 3a3e22db-854e-11ec-b6ad-84c5a6bbb7d6 with status 201
+2022-02-03 16:05:59,643 - basicLogger - INFO - Received event User added request with a trace id of 3a6fae55-854e-11ec-a35f-84c5a6bbb7d6
+2022-02-03 16:05:59,645 - basicLogger - INFO - Returned event User added response (Id: 3a6fae55-854e-11ec-a35f-84c5a6bbb7d6 with status 201
+2022-02-03 16:06:01,408 - basicLogger - INFO - Received event User added request with a trace id of 3b7b66ac-854e-11ec-9d20-84c5a6bbb7d6
+2022-02-03 16:06:01,409 - basicLogger - INFO - Returned event User added response (Id: 3b7b66ac-854e-11ec-9d20-84c5a6bbb7d6 with status 201
+2022-02-03 16:06:01,692 - basicLogger - INFO - Received event rapid test reading request with a trace id of 3ba8e317-854e-11ec-bc14-84c5a6bbb7d6
+2022-02-03 16:06:01,692 - basicLogger - INFO - Returned event rapid test reading response (Id: 3ba8e317-854e-11ec-bc14-84c5a6bbb7d6 with status 201
+2022-02-03 16:06:03,493 - basicLogger - INFO - Received event rapid test reading request with a trace id of 3cb6b9bf-854e-11ec-a2e1-84c5a6bbb7d6
+2022-02-03 16:06:03,494 - basicLogger - INFO - Returned event rapid test reading response (Id: 3cb6b9bf-854e-11ec-a2e1-84c5a6bbb7d6 with status 201
+2022-02-03 16:06:03,760 - basicLogger - INFO - Received event User added request with a trace id of 3ce1fada-854e-11ec-8d15-84c5a6bbb7d6
+2022-02-03 16:06:03,762 - basicLogger - INFO - Returned event User added response (Id: 3ce1fada-854e-11ec-8d15-84c5a6bbb7d6 with status 201
+2022-02-03 16:06:05,574 - basicLogger - INFO - Received event User added request with a trace id of 3df49c00-854e-11ec-baa6-84c5a6bbb7d6
+2022-02-03 16:06:05,575 - basicLogger - INFO - Returned event User added response (Id: 3df49c00-854e-11ec-baa6-84c5a6bbb7d6 with status 201
+2022-02-03 16:06:05,825 - basicLogger - INFO - Received event rapid test reading request with a trace id of 3e1dde4e-854e-11ec-92ab-84c5a6bbb7d6
+2022-02-03 16:06:05,826 - basicLogger - INFO - Returned event rapid test reading response (Id: 3e1dde4e-854e-11ec-92ab-84c5a6bbb7d6 with status 201
+2022-02-03 16:06:07,893 - basicLogger - INFO - Received event User added request with a trace id of 3f586fc6-854e-11ec-95ce-84c5a6bbb7d6
+2022-02-03 16:06:07,894 - basicLogger - INFO - Returned event User added response (Id: 3f586fc6-854e-11ec-95ce-84c5a6bbb7d6 with status 201
+2022-02-10 00:38:52,245 - basicLogger - INFO - Received event rapid test reading request with a trace id of debcafea-8a4c-11ec-9f8a-84c5a6bbb7d6
+2022-02-10 00:38:52,246 - basicLogger - INFO - Returned event rapid test reading response (Id: debcafea-8a4c-11ec-9f8a-84c5a6bbb7d6 with status 500
+2022-02-10 00:43:31,899 - basicLogger - INFO - Received event rapid test reading request with a trace id of 8579e897-8a4d-11ec-91e0-84c5a6bbb7d6
+2022-02-10 00:43:31,899 - basicLogger - INFO - Returned event rapid test reading response (Id: 8579e897-8a4d-11ec-91e0-84c5a6bbb7d6 with status 201
+2022-02-10 13:09:16,187 - basicLogger - INFO - Received event rapid test reading request with a trace id of b325b811-8ab5-11ec-ad2d-84c5a6bbb7d6
+2022-02-10 13:09:16,188 - basicLogger - INFO - Returned event rapid test reading response (Id: b325b811-8ab5-11ec-ad2d-84c5a6bbb7d6 with status 500
+2022-02-10 13:23:52,464 - basicLogger - INFO - Received event rapid test reading request with a trace id of bd75b50f-8ab7-11ec-a584-84c5a6bbb7d6
+2022-02-10 13:23:52,465 - basicLogger - INFO - Returned event rapid test reading response (Id: bd75b50f-8ab7-11ec-a584-84c5a6bbb7d6 with status 201
+2022-02-10 13:59:57,143 - basicLogger - INFO - Received event rapid test reading request with a trace id of c7b7f473-8abc-11ec-9393-84c5a6bbb7d6
+2022-02-10 13:59:57,144 - basicLogger - INFO - Returned event rapid test reading response (Id: c7b7f473-8abc-11ec-9393-84c5a6bbb7d6 with status 400
+2022-02-10 14:01:07,177 - basicLogger - INFO - Received event rapid test reading request with a trace id of f17895cf-8abc-11ec-b7ec-84c5a6bbb7d6
+2022-02-10 14:01:07,178 - basicLogger - INFO - Returned event rapid test reading response (Id: f17895cf-8abc-11ec-b7ec-84c5a6bbb7d6 with status 400
+2022-02-10 14:02:40,662 - basicLogger - INFO - Received event rapid test reading request with a trace id of 293101fe-8abd-11ec-b031-84c5a6bbb7d6
+2022-02-10 14:02:40,662 - basicLogger - INFO - Returned event rapid test reading response (Id: 293101fe-8abd-11ec-b031-84c5a6bbb7d6 with status 201
+2022-02-10 14:02:52,128 - basicLogger - INFO - Received event rapid test reading request with a trace id of 30048266-8abd-11ec-8e7c-84c5a6bbb7d6
+2022-02-10 14:02:52,129 - basicLogger - INFO - Returned event rapid test reading response (Id: 30048266-8abd-11ec-8e7c-84c5a6bbb7d6 with status 500
+2022-02-10 14:03:34,485 - basicLogger - INFO - Received event rapid test reading request with a trace id of 494294dd-8abd-11ec-a1b0-84c5a6bbb7d6
+2022-02-10 14:03:34,486 - basicLogger - INFO - Returned event rapid test reading response (Id: 494294dd-8abd-11ec-a1b0-84c5a6bbb7d6 with status 201
+2022-02-10 14:08:23,053 - basicLogger - INFO - Received event rapid test reading request with a trace id of f540c43f-8abd-11ec-9ea1-84c5a6bbb7d6
+2022-02-10 14:08:23,053 - basicLogger - INFO - Returned event rapid test reading response (Id: f540c43f-8abd-11ec-9ea1-84c5a6bbb7d6 with status 201
+2022-02-10 14:09:54,060 - basicLogger - INFO - Received event rapid test reading request with a trace id of 2b81a3ef-8abe-11ec-9e6e-84c5a6bbb7d6
+2022-02-10 14:09:54,060 - basicLogger - INFO - Returned event rapid test reading response (Id: 2b81a3ef-8abe-11ec-9e6e-84c5a6bbb7d6 with status 201
+2022-02-17 00:59:25,592 - basicLogger - INFO - Received event rapid test reading request with a trace id of e6cb6b62-8fcf-11ec-b170-84c5a6bbb7d6
+2022-02-17 00:59:25,593 - basicLogger - INFO - Returned event rapid test reading response (Id: e6cb6b62-8fcf-11ec-b170-84c5a6bbb7d6 with status 201
+2022-02-17 01:01:52,864 - basicLogger - INFO - Received event User added request with a trace id of 3e9d14ef-8fd0-11ec-92f1-84c5a6bbb7d6
+2022-02-17 01:01:52,864 - basicLogger - INFO - Returned event User added response (Id: 3e9d14ef-8fd0-11ec-92f1-84c5a6bbb7d6 with status 500
+2022-02-17 01:22:17,099 - basicLogger - INFO - Received event User added request with a trace id of 185021f5-8fd3-11ec-ab36-84c5a6bbb7d6
+2022-02-17 01:22:17,100 - basicLogger - INFO - Returned event User added response (Id: 185021f5-8fd3-11ec-ab36-84c5a6bbb7d6 with status 500
+2022-02-17 01:23:36,541 - basicLogger - INFO - Received event User added request with a trace id of 47a977f3-8fd3-11ec-a788-84c5a6bbb7d6
+2022-02-17 01:23:36,542 - basicLogger - INFO - Returned event User added response (Id: 47a977f3-8fd3-11ec-a788-84c5a6bbb7d6 with status 500
+2022-02-17 01:24:55,965 - basicLogger - INFO - Received event User added request with a trace id of 7700bd62-8fd3-11ec-9d57-84c5a6bbb7d6
+2022-02-17 01:24:55,965 - basicLogger - INFO - Returned event User added response (Id: 7700bd62-8fd3-11ec-9d57-84c5a6bbb7d6 with status 500
+2022-02-17 01:27:19,264 - basicLogger - INFO - Received event User added request with a trace id of cc6b3440-8fd3-11ec-ae34-84c5a6bbb7d6
+2022-02-17 01:27:19,264 - basicLogger - INFO - Returned event User added response (Id: cc6b3440-8fd3-11ec-ae34-84c5a6bbb7d6 with status 201
+2022-02-17 01:39:24,486 - basicLogger - INFO - Received event User added request with a trace id of 7caeb2db-8fd5-11ec-82d2-84c5a6bbb7d6
+2022-02-17 01:39:24,487 - basicLogger - INFO - Returned event User added response (Id: 7caeb2db-8fd5-11ec-82d2-84c5a6bbb7d6 with status 201
+2022-02-17 02:20:56,438 - basicLogger - INFO - Received event User added request with a trace id of 4a003d98-8fdb-11ec-abd4-84c5a6bbb7d6
+2022-02-17 02:20:56,438 - basicLogger - INFO - Returned event User added response (Id: 4a003d98-8fdb-11ec-abd4-84c5a6bbb7d6 with status 201
+2022-02-17 02:20:58,495 - basicLogger - INFO - Received event User added request with a trace id of 4b3b8c8e-8fdb-11ec-8e40-84c5a6bbb7d6
+2022-02-17 02:20:58,497 - basicLogger - INFO - Returned event User added response (Id: 4b3b8c8e-8fdb-11ec-8e40-84c5a6bbb7d6 with status 201
+2022-02-17 02:20:58,813 - basicLogger - INFO - Received event User added request with a trace id of 4b690443-8fdb-11ec-82fc-84c5a6bbb7d6
+2022-02-17 02:20:58,814 - basicLogger - INFO - Returned event User added response (Id: 4b690443-8fdb-11ec-82fc-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:00,567 - basicLogger - INFO - Received event User added request with a trace id of 4c757a51-8fdb-11ec-be95-84c5a6bbb7d6
+2022-02-17 02:21:00,568 - basicLogger - INFO - Returned event User added response (Id: 4c757a51-8fdb-11ec-be95-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:00,880 - basicLogger - INFO - Received event User added request with a trace id of 4ca6fb73-8fdb-11ec-bd94-84c5a6bbb7d6
+2022-02-17 02:21:00,880 - basicLogger - INFO - Returned event User added response (Id: 4ca6fb73-8fdb-11ec-bd94-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:02,596 - basicLogger - INFO - Received event User added request with a trace id of 4db1edd8-8fdb-11ec-ac2a-84c5a6bbb7d6
+2022-02-17 02:21:02,597 - basicLogger - INFO - Returned event User added response (Id: 4db1edd8-8fdb-11ec-ac2a-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:02,923 - basicLogger - INFO - Received event User added request with a trace id of 4de17e0e-8fdb-11ec-9213-84c5a6bbb7d6
+2022-02-17 02:21:02,923 - basicLogger - INFO - Returned event User added response (Id: 4de17e0e-8fdb-11ec-9213-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:04,671 - basicLogger - INFO - Received event User added request with a trace id of 4ee7512f-8fdb-11ec-97f1-84c5a6bbb7d6
+2022-02-17 02:21:04,671 - basicLogger - INFO - Returned event User added response (Id: 4ee7512f-8fdb-11ec-97f1-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:04,965 - basicLogger - INFO - Received event User added request with a trace id of 4f193c15-8fdb-11ec-8839-84c5a6bbb7d6
+2022-02-17 02:21:04,966 - basicLogger - INFO - Returned event User added response (Id: 4f193c15-8fdb-11ec-8839-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:06,745 - basicLogger - INFO - Received event User added request with a trace id of 50242541-8fdb-11ec-a599-84c5a6bbb7d6
+2022-02-17 02:21:06,745 - basicLogger - INFO - Returned event User added response (Id: 50242541-8fdb-11ec-a599-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:07,037 - basicLogger - INFO - Received event User added request with a trace id of 5050a955-8fdb-11ec-987a-84c5a6bbb7d6
+2022-02-17 02:21:07,037 - basicLogger - INFO - Returned event User added response (Id: 5050a955-8fdb-11ec-987a-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:08,815 - basicLogger - INFO - Received event User added request with a trace id of 5161490d-8fdb-11ec-b5e2-84c5a6bbb7d6
+2022-02-17 02:21:08,816 - basicLogger - INFO - Returned event User added response (Id: 5161490d-8fdb-11ec-b5e2-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:09,092 - basicLogger - INFO - Received event User added request with a trace id of 518d00d1-8fdb-11ec-a208-84c5a6bbb7d6
+2022-02-17 02:21:09,092 - basicLogger - INFO - Returned event User added response (Id: 518d00d1-8fdb-11ec-a208-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:10,871 - basicLogger - INFO - Received event User added request with a trace id of 529cad3f-8fdb-11ec-88b8-84c5a6bbb7d6
+2022-02-17 02:21:10,871 - basicLogger - INFO - Returned event User added response (Id: 529cad3f-8fdb-11ec-88b8-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:11,167 - basicLogger - INFO - Received event User added request with a trace id of 52c66a8a-8fdb-11ec-94cd-84c5a6bbb7d6
+2022-02-17 02:21:11,167 - basicLogger - INFO - Returned event User added response (Id: 52c66a8a-8fdb-11ec-94cd-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:12,940 - basicLogger - INFO - Received event User added request with a trace id of 53d71d5a-8fdb-11ec-836a-84c5a6bbb7d6
+2022-02-17 02:21:12,940 - basicLogger - INFO - Returned event User added response (Id: 53d71d5a-8fdb-11ec-836a-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:13,232 - basicLogger - INFO - Received event User added request with a trace id of 54036980-8fdb-11ec-a136-84c5a6bbb7d6
+2022-02-17 02:21:13,233 - basicLogger - INFO - Returned event User added response (Id: 54036980-8fdb-11ec-a136-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:15,009 - basicLogger - INFO - Received event User added request with a trace id of 5511d27c-8fdb-11ec-a903-84c5a6bbb7d6
+2022-02-17 02:21:15,010 - basicLogger - INFO - Returned event User added response (Id: 5511d27c-8fdb-11ec-a903-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:15,304 - basicLogger - INFO - Received event User added request with a trace id of 553e9e9a-8fdb-11ec-bec6-84c5a6bbb7d6
+2022-02-17 02:21:15,305 - basicLogger - INFO - Returned event User added response (Id: 553e9e9a-8fdb-11ec-bec6-84c5a6bbb7d6 with status 201
+2022-02-17 02:21:17,391 - basicLogger - INFO - Received event User added request with a trace id of 567af2ae-8fdb-11ec-9adb-84c5a6bbb7d6
+2022-02-17 02:21:17,392 - basicLogger - INFO - Returned event User added response (Id: 567af2ae-8fdb-11ec-9adb-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:39,860 - basicLogger - INFO - Received event rapid test reading request with a trace id of ab677765-8fdb-11ec-8fce-84c5a6bbb7d6
+2022-02-17 02:23:39,861 - basicLogger - INFO - Returned event rapid test reading response (Id: ab677765-8fdb-11ec-8fce-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:41,932 - basicLogger - INFO - Received event User added request with a trace id of aca3a01d-8fdb-11ec-9d37-84c5a6bbb7d6
+2022-02-17 02:23:41,933 - basicLogger - INFO - Returned event User added response (Id: aca3a01d-8fdb-11ec-9d37-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:42,353 - basicLogger - INFO - Received event rapid test reading request with a trace id of ace49c33-8fdb-11ec-99ed-84c5a6bbb7d6
+2022-02-17 02:23:42,353 - basicLogger - INFO - Returned event rapid test reading response (Id: ace49c33-8fdb-11ec-99ed-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:44,001 - basicLogger - INFO - Received event rapid test reading request with a trace id of addfe41b-8fdb-11ec-9027-84c5a6bbb7d6
+2022-02-17 02:23:44,001 - basicLogger - INFO - Returned event rapid test reading response (Id: addfe41b-8fdb-11ec-9027-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:44,421 - basicLogger - INFO - Received event User added request with a trace id of ae1fd0b2-8fdb-11ec-9bd9-84c5a6bbb7d6
+2022-02-17 02:23:44,421 - basicLogger - INFO - Returned event User added response (Id: ae1fd0b2-8fdb-11ec-9bd9-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:46,047 - basicLogger - INFO - Received event User added request with a trace id of af1b47e2-8fdb-11ec-b79d-84c5a6bbb7d6
+2022-02-17 02:23:46,048 - basicLogger - INFO - Returned event User added response (Id: af1b47e2-8fdb-11ec-b79d-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:46,471 - basicLogger - INFO - Received event rapid test reading request with a trace id of af5b5659-8fdb-11ec-ab98-84c5a6bbb7d6
+2022-02-17 02:23:46,471 - basicLogger - INFO - Returned event rapid test reading response (Id: af5b5659-8fdb-11ec-ab98-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:48,120 - basicLogger - INFO - Received event rapid test reading request with a trace id of b053a466-8fdb-11ec-b950-84c5a6bbb7d6
+2022-02-17 02:23:48,121 - basicLogger - INFO - Returned event rapid test reading response (Id: b053a466-8fdb-11ec-b950-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:48,536 - basicLogger - INFO - Received event User added request with a trace id of b0944c36-8fdb-11ec-b926-84c5a6bbb7d6
+2022-02-17 02:23:48,536 - basicLogger - INFO - Returned event User added response (Id: b0944c36-8fdb-11ec-b926-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:50,190 - basicLogger - INFO - Received event User added request with a trace id of b1900936-8fdb-11ec-b079-84c5a6bbb7d6
+2022-02-17 02:23:50,191 - basicLogger - INFO - Returned event User added response (Id: b1900936-8fdb-11ec-b079-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:50,595 - basicLogger - INFO - Received event rapid test reading request with a trace id of b1cf81ec-8fdb-11ec-82ca-84c5a6bbb7d6
+2022-02-17 02:23:50,595 - basicLogger - INFO - Returned event rapid test reading response (Id: b1cf81ec-8fdb-11ec-82ca-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:52,267 - basicLogger - INFO - Received event rapid test reading request with a trace id of b2cb9f7f-8fdb-11ec-8f73-84c5a6bbb7d6
+2022-02-17 02:23:52,268 - basicLogger - INFO - Returned event rapid test reading response (Id: b2cb9f7f-8fdb-11ec-8f73-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:52,669 - basicLogger - INFO - Received event User added request with a trace id of b3099832-8fdb-11ec-b1f5-84c5a6bbb7d6
+2022-02-17 02:23:52,670 - basicLogger - INFO - Returned event User added response (Id: b3099832-8fdb-11ec-b1f5-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:54,327 - basicLogger - INFO - Received event User added request with a trace id of b4093b81-8fdb-11ec-b318-84c5a6bbb7d6
+2022-02-17 02:23:54,328 - basicLogger - INFO - Returned event User added response (Id: b4093b81-8fdb-11ec-b318-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:54,741 - basicLogger - INFO - Received event rapid test reading request with a trace id of b4466329-8fdb-11ec-be1f-84c5a6bbb7d6
+2022-02-17 02:23:54,741 - basicLogger - INFO - Returned event rapid test reading response (Id: b4466329-8fdb-11ec-be1f-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:56,395 - basicLogger - INFO - Received event rapid test reading request with a trace id of b543d0a4-8fdb-11ec-9fa9-84c5a6bbb7d6
+2022-02-17 02:23:56,395 - basicLogger - INFO - Returned event rapid test reading response (Id: b543d0a4-8fdb-11ec-9fa9-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:56,796 - basicLogger - INFO - Received event User added request with a trace id of b5823c60-8fdb-11ec-af7a-84c5a6bbb7d6
+2022-02-17 02:23:56,797 - basicLogger - INFO - Returned event User added response (Id: b5823c60-8fdb-11ec-af7a-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:58,461 - basicLogger - INFO - Received event User added request with a trace id of b67efe9b-8fdb-11ec-887e-84c5a6bbb7d6
+2022-02-17 02:23:58,467 - basicLogger - INFO - Returned event User added response (Id: b67efe9b-8fdb-11ec-887e-84c5a6bbb7d6 with status 201
+2022-02-17 02:23:58,839 - basicLogger - INFO - Received event rapid test reading request with a trace id of b6bbd2dc-8fdb-11ec-ad24-84c5a6bbb7d6
+2022-02-17 02:23:58,839 - basicLogger - INFO - Returned event rapid test reading response (Id: b6bbd2dc-8fdb-11ec-ad24-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:00,526 - basicLogger - INFO - Received event rapid test reading request with a trace id of b7baf0f9-8fdb-11ec-9794-84c5a6bbb7d6
+2022-02-17 02:24:00,526 - basicLogger - INFO - Returned event rapid test reading response (Id: b7baf0f9-8fdb-11ec-9794-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:00,900 - basicLogger - INFO - Received event User added request with a trace id of b7f384f7-8fdb-11ec-90d4-84c5a6bbb7d6
+2022-02-17 02:24:00,900 - basicLogger - INFO - Returned event User added response (Id: b7f384f7-8fdb-11ec-90d4-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:02,600 - basicLogger - INFO - Received event User added request with a trace id of b8f4c7ea-8fdb-11ec-9a92-84c5a6bbb7d6
+2022-02-17 02:24:02,601 - basicLogger - INFO - Returned event User added response (Id: b8f4c7ea-8fdb-11ec-9a92-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:02,967 - basicLogger - INFO - Received event rapid test reading request with a trace id of b92dd8cd-8fdb-11ec-b6db-84c5a6bbb7d6
+2022-02-17 02:24:02,968 - basicLogger - INFO - Returned event rapid test reading response (Id: b92dd8cd-8fdb-11ec-b6db-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:04,670 - basicLogger - INFO - Received event rapid test reading request with a trace id of ba31a856-8fdb-11ec-9992-84c5a6bbb7d6
+2022-02-17 02:24:04,671 - basicLogger - INFO - Returned event rapid test reading response (Id: ba31a856-8fdb-11ec-9992-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:05,025 - basicLogger - INFO - Received event User added request with a trace id of ba694635-8fdb-11ec-aa53-84c5a6bbb7d6
+2022-02-17 02:24:05,026 - basicLogger - INFO - Returned event User added response (Id: ba694635-8fdb-11ec-aa53-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:06,727 - basicLogger - INFO - Received event User added request with a trace id of bb6d42fa-8fdb-11ec-8f62-84c5a6bbb7d6
+2022-02-17 02:24:06,728 - basicLogger - INFO - Returned event User added response (Id: bb6d42fa-8fdb-11ec-8f62-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:07,086 - basicLogger - INFO - Received event rapid test reading request with a trace id of bba39b4d-8fdb-11ec-9804-84c5a6bbb7d6
+2022-02-17 02:24:07,087 - basicLogger - INFO - Returned event rapid test reading response (Id: bba39b4d-8fdb-11ec-9804-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:08,781 - basicLogger - INFO - Received event rapid test reading request with a trace id of bca7444d-8fdb-11ec-ace4-84c5a6bbb7d6
+2022-02-17 02:24:08,782 - basicLogger - INFO - Returned event rapid test reading response (Id: bca7444d-8fdb-11ec-ace4-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:09,145 - basicLogger - INFO - Received event User added request with a trace id of bcde24d2-8fdb-11ec-a8b9-84c5a6bbb7d6
+2022-02-17 02:24:09,145 - basicLogger - INFO - Returned event User added response (Id: bcde24d2-8fdb-11ec-a8b9-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:10,845 - basicLogger - INFO - Received event User added request with a trace id of bde07b7d-8fdb-11ec-99dc-84c5a6bbb7d6
+2022-02-17 02:24:10,846 - basicLogger - INFO - Returned event User added response (Id: bde07b7d-8fdb-11ec-99dc-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:11,192 - basicLogger - INFO - Received event rapid test reading request with a trace id of be182185-8fdb-11ec-b1c9-84c5a6bbb7d6
+2022-02-17 02:24:11,193 - basicLogger - INFO - Returned event rapid test reading response (Id: be182185-8fdb-11ec-b1c9-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:12,901 - basicLogger - INFO - Received event rapid test reading request with a trace id of bf1b8515-8fdb-11ec-9f5a-84c5a6bbb7d6
+2022-02-17 02:24:12,902 - basicLogger - INFO - Returned event rapid test reading response (Id: bf1b8515-8fdb-11ec-9f5a-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:13,257 - basicLogger - INFO - Received event User added request with a trace id of bf510b90-8fdb-11ec-941a-84c5a6bbb7d6
+2022-02-17 02:24:13,258 - basicLogger - INFO - Returned event User added response (Id: bf510b90-8fdb-11ec-941a-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:14,951 - basicLogger - INFO - Received event User added request with a trace id of c055b440-8fdb-11ec-befc-84c5a6bbb7d6
+2022-02-17 02:24:14,951 - basicLogger - INFO - Returned event User added response (Id: c055b440-8fdb-11ec-befc-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:15,324 - basicLogger - INFO - Received event rapid test reading request with a trace id of c08ba068-8fdb-11ec-b76f-84c5a6bbb7d6
+2022-02-17 02:24:15,324 - basicLogger - INFO - Returned event rapid test reading response (Id: c08ba068-8fdb-11ec-b76f-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:17,018 - basicLogger - INFO - Received event rapid test reading request with a trace id of c18deae3-8fdb-11ec-8b2e-84c5a6bbb7d6
+2022-02-17 02:24:17,019 - basicLogger - INFO - Returned event rapid test reading response (Id: c18deae3-8fdb-11ec-8b2e-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:17,397 - basicLogger - INFO - Received event User added request with a trace id of c1c6d7bf-8fdb-11ec-9b3b-84c5a6bbb7d6
+2022-02-17 02:24:17,397 - basicLogger - INFO - Returned event User added response (Id: c1c6d7bf-8fdb-11ec-9b3b-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:19,072 - basicLogger - INFO - Received event User added request with a trace id of c2c97409-8fdb-11ec-8d4f-84c5a6bbb7d6
+2022-02-17 02:24:19,072 - basicLogger - INFO - Returned event User added response (Id: c2c97409-8fdb-11ec-8d4f-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:19,472 - basicLogger - INFO - Received event rapid test reading request with a trace id of c30336eb-8fdb-11ec-8ef5-84c5a6bbb7d6
+2022-02-17 02:24:19,472 - basicLogger - INFO - Returned event rapid test reading response (Id: c30336eb-8fdb-11ec-8ef5-84c5a6bbb7d6 with status 201
+2022-02-17 02:24:21,522 - basicLogger - INFO - Received event User added request with a trace id of c43fef07-8fdb-11ec-9677-84c5a6bbb7d6
+2022-02-17 02:24:21,522 - basicLogger - INFO - Returned event User added response (Id: c43fef07-8fdb-11ec-9677-84c5a6bbb7d6 with status 201
+2022-02-17 02:26:46,652 - basicLogger - INFO - Received event rapid test reading request with a trace id of 1abe2468-8fdc-11ec-a445-84c5a6bbb7d6
+2022-02-17 02:26:46,652 - basicLogger - INFO - Returned event rapid test reading response (Id: 1abe2468-8fdc-11ec-a445-84c5a6bbb7d6 with status 201
+2022-02-17 02:26:47,089 - basicLogger - INFO - Received event rapid test reading request with a trace id of 1b00a2cc-8fdc-11ec-90f9-84c5a6bbb7d6
+2022-02-17 02:26:47,089 - basicLogger - INFO - Returned event rapid test reading response (Id: 1b00a2cc-8fdc-11ec-90f9-84c5a6bbb7d6 with status 201
+2022-02-17 02:26:48,719 - basicLogger - INFO - Received event User added request with a trace id of 1bf9b302-8fdc-11ec-b051-84c5a6bbb7d6
+2022-02-17 02:26:48,720 - basicLogger - INFO - Returned event User added response (Id: 1bf9b302-8fdc-11ec-b051-84c5a6bbb7d6 with status 201
+2022-02-17 02:26:49,161 - basicLogger - INFO - Received event User added request with a trace id of 1c3c9235-8fdc-11ec-bfad-84c5a6bbb7d6
+2022-02-17 02:26:49,161 - basicLogger - INFO - Returned event User added response (Id: 1c3c9235-8fdc-11ec-bfad-84c5a6bbb7d6 with status 201
+2022-02-17 02:26:50,771 - basicLogger - INFO - Received event rapid test reading request with a trace id of 1d355c64-8fdc-11ec-826c-84c5a6bbb7d6
+2022-02-17 02:26:50,772 - basicLogger - INFO - Returned event rapid test reading response (Id: 1d355c64-8fdc-11ec-826c-84c5a6bbb7d6 with status 201
+2022-02-17 02:26:51,240 - basicLogger - INFO - Received event rapid test reading request with a trace id of 1d79107f-8fdc-11ec-bf59-84c5a6bbb7d6
+2022-02-17 02:26:51,241 - basicLogger - INFO - Returned event rapid test reading response (Id: 1d79107f-8fdc-11ec-bf59-84c5a6bbb7d6 with status 201
+2022-02-17 02:26:52,838 - basicLogger - INFO - Received event User added request with a trace id of 1e6e5939-8fdc-11ec-b22a-84c5a6bbb7d6
+2022-02-17 02:26:52,839 - basicLogger - INFO - Returned event User added response (Id: 1e6e5939-8fdc-11ec-b22a-84c5a6bbb7d6 with status 201
+2022-02-17 02:26:53,297 - basicLogger - INFO - Received event User added request with a trace id of 1eb69a4a-8fdc-11ec-bd4f-84c5a6bbb7d6
+2022-02-17 02:26:53,298 - basicLogger - INFO - Returned event User added response (Id: 1eb69a4a-8fdc-11ec-bd4f-84c5a6bbb7d6 with status 201
+2022-02-17 02:26:54,904 - basicLogger - INFO - Received event rapid test reading request with a trace id of 1fa9c3ee-8fdc-11ec-8139-84c5a6bbb7d6
+2022-02-17 02:26:54,904 - basicLogger - INFO - Returned event rapid test reading response (Id: 1fa9c3ee-8fdc-11ec-8139-84c5a6bbb7d6 with status 201
+2022-02-17 02:26:55,350 - basicLogger - INFO - Received event rapid test reading request with a trace id of 1fefb22a-8fdc-11ec-afa9-84c5a6bbb7d6
+2022-02-17 02:26:55,350 - basicLogger - INFO - Returned event rapid test reading response (Id: 1fefb22a-8fdc-11ec-afa9-84c5a6bbb7d6 with status 201
+2022-02-17 02:26:56,962 - basicLogger - INFO - Received event User added request with a trace id of 20e51010-8fdc-11ec-92a1-84c5a6bbb7d6
+2022-02-17 02:26:56,962 - basicLogger - INFO - Returned event User added response (Id: 20e51010-8fdc-11ec-92a1-84c5a6bbb7d6 with status 201
+2022-02-17 02:26:57,399 - basicLogger - INFO - Received event User added request with a trace id of 2128d2fd-8fdc-11ec-8355-84c5a6bbb7d6
+2022-02-17 02:26:57,400 - basicLogger - INFO - Returned event User added response (Id: 2128d2fd-8fdc-11ec-8355-84c5a6bbb7d6 with status 201
+2022-02-17 02:26:59,017 - basicLogger - INFO - Received event rapid test reading request with a trace id of 221eb7c2-8fdc-11ec-8683-84c5a6bbb7d6
+2022-02-17 02:26:59,017 - basicLogger - INFO - Returned event rapid test reading response (Id: 221eb7c2-8fdc-11ec-8683-84c5a6bbb7d6 with status 201
+2022-02-17 02:26:59,452 - basicLogger - INFO - Received event rapid test reading request with a trace id of 2261b59c-8fdc-11ec-96f2-84c5a6bbb7d6
+2022-02-17 02:26:59,453 - basicLogger - INFO - Returned event rapid test reading response (Id: 2261b59c-8fdc-11ec-96f2-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:00,918 - basicLogger - INFO - Received event rapid test reading request with a trace id of 23423687-8fdc-11ec-b155-84c5a6bbb7d6
+2022-02-17 02:27:00,918 - basicLogger - INFO - Returned event rapid test reading response (Id: 23423687-8fdc-11ec-b155-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:02,977 - basicLogger - INFO - Received event User added request with a trace id of 247a6d81-8fdc-11ec-b21e-84c5a6bbb7d6
+2022-02-17 02:27:02,977 - basicLogger - INFO - Returned event User added response (Id: 247a6d81-8fdc-11ec-b21e-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:03,425 - basicLogger - INFO - Received event rapid test reading request with a trace id of 24bf9673-8fdc-11ec-b041-84c5a6bbb7d6
+2022-02-17 02:27:03,425 - basicLogger - INFO - Returned event rapid test reading response (Id: 24bf9673-8fdc-11ec-b041-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:05,029 - basicLogger - INFO - Received event rapid test reading request with a trace id of 25b4e0d5-8fdc-11ec-86da-84c5a6bbb7d6
+2022-02-17 02:27:05,029 - basicLogger - INFO - Returned event rapid test reading response (Id: 25b4e0d5-8fdc-11ec-86da-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:05,470 - basicLogger - INFO - Received event User added request with a trace id of 25f8fd82-8fdc-11ec-ab3d-84c5a6bbb7d6
+2022-02-17 02:27:05,471 - basicLogger - INFO - Returned event User added response (Id: 25f8fd82-8fdc-11ec-ab3d-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:07,085 - basicLogger - INFO - Received event User added request with a trace id of 26edc10d-8fdc-11ec-8898-84c5a6bbb7d6
+2022-02-17 02:27:07,085 - basicLogger - INFO - Returned event User added response (Id: 26edc10d-8fdc-11ec-8898-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:07,522 - basicLogger - INFO - Received event rapid test reading request with a trace id of 273120ec-8fdc-11ec-85b0-84c5a6bbb7d6
+2022-02-17 02:27:07,522 - basicLogger - INFO - Returned event rapid test reading response (Id: 273120ec-8fdc-11ec-85b0-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:09,151 - basicLogger - INFO - Received event rapid test reading request with a trace id of 2827710c-8fdc-11ec-afb6-84c5a6bbb7d6
+2022-02-17 02:27:09,151 - basicLogger - INFO - Returned event rapid test reading response (Id: 2827710c-8fdc-11ec-afb6-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:09,594 - basicLogger - INFO - Received event User added request with a trace id of 286a10d1-8fdc-11ec-a7c5-84c5a6bbb7d6
+2022-02-17 02:27:09,594 - basicLogger - INFO - Returned event User added response (Id: 286a10d1-8fdc-11ec-a7c5-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:11,202 - basicLogger - INFO - Received event User added request with a trace id of 2962dd1e-8fdc-11ec-8328-84c5a6bbb7d6
+2022-02-17 02:27:11,202 - basicLogger - INFO - Returned event User added response (Id: 2962dd1e-8fdc-11ec-8328-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:11,639 - basicLogger - INFO - Received event rapid test reading request with a trace id of 29a66b0a-8fdc-11ec-86c3-84c5a6bbb7d6
+2022-02-17 02:27:11,640 - basicLogger - INFO - Returned event rapid test reading response (Id: 29a66b0a-8fdc-11ec-86c3-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:13,252 - basicLogger - INFO - Received event rapid test reading request with a trace id of 2a9be4f8-8fdc-11ec-a9c7-84c5a6bbb7d6
+2022-02-17 02:27:13,253 - basicLogger - INFO - Returned event rapid test reading response (Id: 2a9be4f8-8fdc-11ec-a9c7-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:13,682 - basicLogger - INFO - Received event User added request with a trace id of 2adeaf8b-8fdc-11ec-ac29-84c5a6bbb7d6
+2022-02-17 02:27:13,684 - basicLogger - INFO - Returned event User added response (Id: 2adeaf8b-8fdc-11ec-ac29-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:15,308 - basicLogger - INFO - Received event User added request with a trace id of 2bd4b600-8fdc-11ec-afab-84c5a6bbb7d6
+2022-02-17 02:27:15,308 - basicLogger - INFO - Returned event User added response (Id: 2bd4b600-8fdc-11ec-afab-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:15,742 - basicLogger - INFO - Received event rapid test reading request with a trace id of 2c167c33-8fdc-11ec-a0d3-84c5a6bbb7d6
+2022-02-17 02:27:15,743 - basicLogger - INFO - Returned event rapid test reading response (Id: 2c167c33-8fdc-11ec-a0d3-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:17,361 - basicLogger - INFO - Received event rapid test reading request with a trace id of 2d0e2800-8fdc-11ec-85c8-84c5a6bbb7d6
+2022-02-17 02:27:17,362 - basicLogger - INFO - Returned event rapid test reading response (Id: 2d0e2800-8fdc-11ec-85c8-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:17,802 - basicLogger - INFO - Received event User added request with a trace id of 2d50b2ee-8fdc-11ec-9161-84c5a6bbb7d6
+2022-02-17 02:27:17,802 - basicLogger - INFO - Returned event User added response (Id: 2d50b2ee-8fdc-11ec-9161-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:19,404 - basicLogger - INFO - Received event User added request with a trace id of 2e47aa96-8fdc-11ec-8298-84c5a6bbb7d6
+2022-02-17 02:27:19,405 - basicLogger - INFO - Returned event User added response (Id: 2e47aa96-8fdc-11ec-8298-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:19,857 - basicLogger - INFO - Received event rapid test reading request with a trace id of 2e8ae908-8fdc-11ec-b41c-84c5a6bbb7d6
+2022-02-17 02:27:19,857 - basicLogger - INFO - Returned event rapid test reading response (Id: 2e8ae908-8fdc-11ec-b41c-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:21,475 - basicLogger - INFO - Received event rapid test reading request with a trace id of 2f7f3f5d-8fdc-11ec-bd0f-84c5a6bbb7d6
+2022-02-17 02:27:21,476 - basicLogger - INFO - Returned event rapid test reading response (Id: 2f7f3f5d-8fdc-11ec-bd0f-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:21,914 - basicLogger - INFO - Received event User added request with a trace id of 2fc4511b-8fdc-11ec-8877-84c5a6bbb7d6
+2022-02-17 02:27:21,914 - basicLogger - INFO - Returned event User added response (Id: 2fc4511b-8fdc-11ec-8877-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:23,556 - basicLogger - INFO - Received event User added request with a trace id of 30bb8b6c-8fdc-11ec-a143-84c5a6bbb7d6
+2022-02-17 02:27:23,557 - basicLogger - INFO - Returned event User added response (Id: 30bb8b6c-8fdc-11ec-a143-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:23,986 - basicLogger - INFO - Received event rapid test reading request with a trace id of 30fe5615-8fdc-11ec-a779-84c5a6bbb7d6
+2022-02-17 02:27:23,987 - basicLogger - INFO - Returned event rapid test reading response (Id: 30fe5615-8fdc-11ec-a779-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:25,629 - basicLogger - INFO - Received event rapid test reading request with a trace id of 31f9811f-8fdc-11ec-b0aa-84c5a6bbb7d6
+2022-02-17 02:27:25,629 - basicLogger - INFO - Returned event rapid test reading response (Id: 31f9811f-8fdc-11ec-b0aa-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:26,036 - basicLogger - INFO - Received event User added request with a trace id of 323a757d-8fdc-11ec-bdd2-84c5a6bbb7d6
+2022-02-17 02:27:26,036 - basicLogger - INFO - Returned event User added response (Id: 323a757d-8fdc-11ec-bdd2-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:27,698 - basicLogger - INFO - Received event User added request with a trace id of 33351218-8fdc-11ec-a3d2-84c5a6bbb7d6
+2022-02-17 02:27:27,698 - basicLogger - INFO - Returned event User added response (Id: 33351218-8fdc-11ec-a3d2-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:28,095 - basicLogger - INFO - Received event rapid test reading request with a trace id of 33731537-8fdc-11ec-b2c0-84c5a6bbb7d6
+2022-02-17 02:27:28,095 - basicLogger - INFO - Returned event rapid test reading response (Id: 33731537-8fdc-11ec-b2c0-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:29,761 - basicLogger - INFO - Received event rapid test reading request with a trace id of 3470ed26-8fdc-11ec-a9d8-84c5a6bbb7d6
+2022-02-17 02:27:29,762 - basicLogger - INFO - Returned event rapid test reading response (Id: 3470ed26-8fdc-11ec-a9d8-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:30,160 - basicLogger - INFO - Received event User added request with a trace id of 34adc2b0-8fdc-11ec-94a2-84c5a6bbb7d6
+2022-02-17 02:27:30,161 - basicLogger - INFO - Returned event User added response (Id: 34adc2b0-8fdc-11ec-94a2-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:31,802 - basicLogger - INFO - Received event User added request with a trace id of 35ac01f7-8fdc-11ec-b421-84c5a6bbb7d6
+2022-02-17 02:27:31,803 - basicLogger - INFO - Returned event User added response (Id: 35ac01f7-8fdc-11ec-b421-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:32,228 - basicLogger - INFO - Received event rapid test reading request with a trace id of 35e8faa0-8fdc-11ec-a733-84c5a6bbb7d6
+2022-02-17 02:27:32,229 - basicLogger - INFO - Returned event rapid test reading response (Id: 35e8faa0-8fdc-11ec-a733-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:33,866 - basicLogger - INFO - Received event rapid test reading request with a trace id of 36e30709-8fdc-11ec-b993-84c5a6bbb7d6
+2022-02-17 02:27:33,867 - basicLogger - INFO - Returned event rapid test reading response (Id: 36e30709-8fdc-11ec-b993-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:34,292 - basicLogger - INFO - Received event User added request with a trace id of 3724b518-8fdc-11ec-9133-84c5a6bbb7d6
+2022-02-17 02:27:34,292 - basicLogger - INFO - Returned event User added response (Id: 3724b518-8fdc-11ec-9133-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:35,894 - basicLogger - INFO - Received event User added request with a trace id of 381ddc49-8fdc-11ec-b12a-84c5a6bbb7d6
+2022-02-17 02:27:35,894 - basicLogger - INFO - Returned event User added response (Id: 381ddc49-8fdc-11ec-b12a-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:36,335 - basicLogger - INFO - Received event rapid test reading request with a trace id of 385eebaf-8fdc-11ec-bb1a-84c5a6bbb7d6
+2022-02-17 02:27:36,335 - basicLogger - INFO - Returned event rapid test reading response (Id: 385eebaf-8fdc-11ec-bb1a-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:37,931 - basicLogger - INFO - Received event rapid test reading request with a trace id of 3953d25a-8fdc-11ec-b287-84c5a6bbb7d6
+2022-02-17 02:27:37,932 - basicLogger - INFO - Returned event rapid test reading response (Id: 3953d25a-8fdc-11ec-b287-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:38,382 - basicLogger - INFO - Received event User added request with a trace id of 3996a1f1-8fdc-11ec-8a0e-84c5a6bbb7d6
+2022-02-17 02:27:38,382 - basicLogger - INFO - Returned event User added response (Id: 3996a1f1-8fdc-11ec-8a0e-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:39,990 - basicLogger - INFO - Received event User added request with a trace id of 3a8a4d0d-8fdc-11ec-8229-84c5a6bbb7d6
+2022-02-17 02:27:39,991 - basicLogger - INFO - Returned event User added response (Id: 3a8a4d0d-8fdc-11ec-8229-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:40,452 - basicLogger - INFO - Received event rapid test reading request with a trace id of 3acf05c5-8fdc-11ec-a542-84c5a6bbb7d6
+2022-02-17 02:27:40,452 - basicLogger - INFO - Returned event rapid test reading response (Id: 3acf05c5-8fdc-11ec-a542-84c5a6bbb7d6 with status 201
+2022-02-17 02:27:42,520 - basicLogger - INFO - Received event User added request with a trace id of 3c0ae542-8fdc-11ec-a48b-84c5a6bbb7d6
+2022-02-17 02:27:42,520 - basicLogger - INFO - Returned event User added response (Id: 3c0ae542-8fdc-11ec-a48b-84c5a6bbb7d6 with status 201
+2022-02-17 02:34:17,641 - basicLogger - INFO - Received event rapid test reading request with a trace id of 278d272f-8fdd-11ec-8807-84c5a6bbb7d6
+2022-02-17 02:34:17,642 - basicLogger - INFO - Returned event rapid test reading response (Id: 278d272f-8fdd-11ec-8807-84c5a6bbb7d6 with status 201
+2022-02-17 02:34:25,722 - basicLogger - INFO - Received event rapid test reading request with a trace id of 2c5be4e8-8fdd-11ec-8c19-84c5a6bbb7d6
+2022-02-17 02:34:25,724 - basicLogger - INFO - Returned event rapid test reading response (Id: 2c5be4e8-8fdd-11ec-8c19-84c5a6bbb7d6 with status 201
+2022-02-17 02:34:32,542 - basicLogger - INFO - Received event rapid test reading request with a trace id of 306bc88f-8fdd-11ec-9855-84c5a6bbb7d6
+2022-02-17 02:34:32,544 - basicLogger - INFO - Returned event rapid test reading response (Id: 306bc88f-8fdd-11ec-9855-84c5a6bbb7d6 with status 201
+2022-02-17 02:34:41,815 - basicLogger - INFO - Received event rapid test reading request with a trace id of 35f86eb0-8fdd-11ec-b15c-84c5a6bbb7d6
+2022-02-17 02:34:41,815 - basicLogger - INFO - Returned event rapid test reading response (Id: 35f86eb0-8fdd-11ec-b15c-84c5a6bbb7d6 with status 201
+2022-02-17 02:34:49,535 - basicLogger - INFO - Received event rapid test reading request with a trace id of 3a8fb350-8fdd-11ec-bec6-84c5a6bbb7d6
+2022-02-17 02:34:49,536 - basicLogger - INFO - Returned event rapid test reading response (Id: 3a8fb350-8fdd-11ec-bec6-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:11,905 - basicLogger - INFO - Received event rapid test reading request with a trace id of 56d375d2-8fe7-11ec-b024-84c5a6bbb7d6
+2022-02-17 03:47:11,906 - basicLogger - INFO - Returned event rapid test reading response (Id: 56d375d2-8fe7-11ec-b024-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:13,962 - basicLogger - INFO - Received event User added request with a trace id of 580ce981-8fe7-11ec-86b6-84c5a6bbb7d6
+2022-02-17 03:47:13,962 - basicLogger - INFO - Returned event User added response (Id: 580ce981-8fe7-11ec-86b6-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:14,421 - basicLogger - INFO - Received event rapid test reading request with a trace id of 584fcf89-8fe7-11ec-8301-84c5a6bbb7d6
+2022-02-17 03:47:14,421 - basicLogger - INFO - Returned event rapid test reading response (Id: 584fcf89-8fe7-11ec-8301-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:16,023 - basicLogger - INFO - Received event rapid test reading request with a trace id of 5946c869-8fe7-11ec-abba-84c5a6bbb7d6
+2022-02-17 03:47:16,023 - basicLogger - INFO - Returned event rapid test reading response (Id: 5946c869-8fe7-11ec-abba-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:16,488 - basicLogger - INFO - Received event User added request with a trace id of 598d3038-8fe7-11ec-8d14-84c5a6bbb7d6
+2022-02-17 03:47:16,488 - basicLogger - INFO - Returned event User added response (Id: 598d3038-8fe7-11ec-8d14-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:18,092 - basicLogger - INFO - Received event User added request with a trace id of 5a8180a4-8fe7-11ec-b261-84c5a6bbb7d6
+2022-02-17 03:47:18,093 - basicLogger - INFO - Returned event User added response (Id: 5a8180a4-8fe7-11ec-b261-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:18,545 - basicLogger - INFO - Received event rapid test reading request with a trace id of 5ac86f7f-8fe7-11ec-aefc-84c5a6bbb7d6
+2022-02-17 03:47:18,545 - basicLogger - INFO - Returned event rapid test reading response (Id: 5ac86f7f-8fe7-11ec-aefc-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:20,169 - basicLogger - INFO - Received event rapid test reading request with a trace id of 5bbd4652-8fe7-11ec-96f0-84c5a6bbb7d6
+2022-02-17 03:47:20,169 - basicLogger - INFO - Returned event rapid test reading response (Id: 5bbd4652-8fe7-11ec-96f0-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:20,621 - basicLogger - INFO - Received event User added request with a trace id of 5c0285e8-8fe7-11ec-ad01-84c5a6bbb7d6
+2022-02-17 03:47:20,622 - basicLogger - INFO - Returned event User added response (Id: 5c0285e8-8fe7-11ec-ad01-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:22,242 - basicLogger - INFO - Received event User added request with a trace id of 5cfa1234-8fe7-11ec-b312-84c5a6bbb7d6
+2022-02-17 03:47:22,243 - basicLogger - INFO - Returned event User added response (Id: 5cfa1234-8fe7-11ec-b312-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:22,695 - basicLogger - INFO - Received event rapid test reading request with a trace id of 5d3f4f3b-8fe7-11ec-acc9-84c5a6bbb7d6
+2022-02-17 03:47:22,697 - basicLogger - INFO - Returned event rapid test reading response (Id: 5d3f4f3b-8fe7-11ec-acc9-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:24,298 - basicLogger - INFO - Received event rapid test reading request with a trace id of 5e37bf84-8fe7-11ec-91e4-84c5a6bbb7d6
+2022-02-17 03:47:24,299 - basicLogger - INFO - Returned event rapid test reading response (Id: 5e37bf84-8fe7-11ec-91e4-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:24,766 - basicLogger - INFO - Received event User added request with a trace id of 5e7c80ad-8fe7-11ec-8cff-84c5a6bbb7d6
+2022-02-17 03:47:24,766 - basicLogger - INFO - Returned event User added response (Id: 5e7c80ad-8fe7-11ec-8cff-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:26,378 - basicLogger - INFO - Received event User added request with a trace id of 5f6ff17f-8fe7-11ec-826f-84c5a6bbb7d6
+2022-02-17 03:47:26,379 - basicLogger - INFO - Returned event User added response (Id: 5f6ff17f-8fe7-11ec-826f-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:26,841 - basicLogger - INFO - Received event rapid test reading request with a trace id of 5fb746df-8fe7-11ec-aaad-84c5a6bbb7d6
+2022-02-17 03:47:26,842 - basicLogger - INFO - Returned event rapid test reading response (Id: 5fb746df-8fe7-11ec-aaad-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:28,428 - basicLogger - INFO - Received event rapid test reading request with a trace id of 60adec88-8fe7-11ec-b73d-84c5a6bbb7d6
+2022-02-17 03:47:28,428 - basicLogger - INFO - Returned event rapid test reading response (Id: 60adec88-8fe7-11ec-b73d-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:28,910 - basicLogger - INFO - Received event User added request with a trace id of 60f4971d-8fe7-11ec-bdde-84c5a6bbb7d6
+2022-02-17 03:47:28,911 - basicLogger - INFO - Returned event User added response (Id: 60f4971d-8fe7-11ec-bdde-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:30,485 - basicLogger - INFO - Received event User added request with a trace id of 61e6048e-8fe7-11ec-a54e-84c5a6bbb7d6
+2022-02-17 03:47:30,486 - basicLogger - INFO - Returned event User added response (Id: 61e6048e-8fe7-11ec-a54e-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:30,975 - basicLogger - INFO - Received event rapid test reading request with a trace id of 6230293c-8fe7-11ec-90ca-84c5a6bbb7d6
+2022-02-17 03:47:30,975 - basicLogger - INFO - Returned event rapid test reading response (Id: 6230293c-8fe7-11ec-90ca-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:32,542 - basicLogger - INFO - Received event rapid test reading request with a trace id of 63201ee2-8fe7-11ec-bd06-84c5a6bbb7d6
+2022-02-17 03:47:32,542 - basicLogger - INFO - Returned event rapid test reading response (Id: 63201ee2-8fe7-11ec-bd06-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:33,044 - basicLogger - INFO - Received event User added request with a trace id of 636b2d03-8fe7-11ec-9234-84c5a6bbb7d6
+2022-02-17 03:47:33,044 - basicLogger - INFO - Returned event User added response (Id: 636b2d03-8fe7-11ec-9234-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:34,597 - basicLogger - INFO - Received event User added request with a trace id of 6459d47f-8fe7-11ec-8ff3-84c5a6bbb7d6
+2022-02-17 03:47:34,597 - basicLogger - INFO - Returned event User added response (Id: 6459d47f-8fe7-11ec-8ff3-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:35,084 - basicLogger - INFO - Received event rapid test reading request with a trace id of 64a6528a-8fe7-11ec-96f8-84c5a6bbb7d6
+2022-02-17 03:47:35,085 - basicLogger - INFO - Returned event rapid test reading response (Id: 64a6528a-8fe7-11ec-96f8-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:36,641 - basicLogger - INFO - Received event rapid test reading request with a trace id of 659346ab-8fe7-11ec-a909-84c5a6bbb7d6
+2022-02-17 03:47:36,641 - basicLogger - INFO - Returned event rapid test reading response (Id: 659346ab-8fe7-11ec-a909-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:37,155 - basicLogger - INFO - Received event User added request with a trace id of 65ddcc8b-8fe7-11ec-987b-84c5a6bbb7d6
+2022-02-17 03:47:37,156 - basicLogger - INFO - Returned event User added response (Id: 65ddcc8b-8fe7-11ec-987b-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:38,713 - basicLogger - INFO - Received event User added request with a trace id of 66cb2eef-8fe7-11ec-95ec-84c5a6bbb7d6
+2022-02-17 03:47:38,714 - basicLogger - INFO - Returned event User added response (Id: 66cb2eef-8fe7-11ec-95ec-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:39,224 - basicLogger - INFO - Received event rapid test reading request with a trace id of 6719be76-8fe7-11ec-9d06-84c5a6bbb7d6
+2022-02-17 03:47:39,225 - basicLogger - INFO - Returned event rapid test reading response (Id: 6719be76-8fe7-11ec-9d06-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:40,768 - basicLogger - INFO - Received event rapid test reading request with a trace id of 68079ad4-8fe7-11ec-8201-84c5a6bbb7d6
+2022-02-17 03:47:40,769 - basicLogger - INFO - Returned event rapid test reading response (Id: 68079ad4-8fe7-11ec-8201-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:41,281 - basicLogger - INFO - Received event User added request with a trace id of 68556953-8fe7-11ec-a567-84c5a6bbb7d6
+2022-02-17 03:47:41,282 - basicLogger - INFO - Returned event User added response (Id: 68556953-8fe7-11ec-a567-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:42,824 - basicLogger - INFO - Received event User added request with a trace id of 694123ef-8fe7-11ec-a9d2-84c5a6bbb7d6
+2022-02-17 03:47:42,824 - basicLogger - INFO - Returned event User added response (Id: 694123ef-8fe7-11ec-a9d2-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:43,333 - basicLogger - INFO - Received event rapid test reading request with a trace id of 698f5621-8fe7-11ec-80d5-84c5a6bbb7d6
+2022-02-17 03:47:43,333 - basicLogger - INFO - Returned event rapid test reading response (Id: 698f5621-8fe7-11ec-80d5-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:44,864 - basicLogger - INFO - Received event rapid test reading request with a trace id of 6a7ad225-8fe7-11ec-acff-84c5a6bbb7d6
+2022-02-17 03:47:44,864 - basicLogger - INFO - Returned event rapid test reading response (Id: 6a7ad225-8fe7-11ec-acff-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:45,376 - basicLogger - INFO - Received event User added request with a trace id of 6ac84d86-8fe7-11ec-a1ca-84c5a6bbb7d6
+2022-02-17 03:47:45,377 - basicLogger - INFO - Returned event User added response (Id: 6ac84d86-8fe7-11ec-a1ca-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:46,921 - basicLogger - INFO - Received event User added request with a trace id of 6bb1e06e-8fe7-11ec-9b30-84c5a6bbb7d6
+2022-02-17 03:47:46,921 - basicLogger - INFO - Returned event User added response (Id: 6bb1e06e-8fe7-11ec-9b30-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:47,422 - basicLogger - INFO - Received event rapid test reading request with a trace id of 6c001e37-8fe7-11ec-9aa5-84c5a6bbb7d6
+2022-02-17 03:47:47,422 - basicLogger - INFO - Returned event rapid test reading response (Id: 6c001e37-8fe7-11ec-9aa5-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:48,992 - basicLogger - INFO - Received event rapid test reading request with a trace id of 6cebc6a1-8fe7-11ec-b95a-84c5a6bbb7d6
+2022-02-17 03:47:48,993 - basicLogger - INFO - Returned event rapid test reading response (Id: 6cebc6a1-8fe7-11ec-b95a-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:49,493 - basicLogger - INFO - Received event User added request with a trace id of 6d3845d4-8fe7-11ec-b2bf-84c5a6bbb7d6
+2022-02-17 03:47:49,493 - basicLogger - INFO - Returned event User added response (Id: 6d3845d4-8fe7-11ec-b2bf-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:51,071 - basicLogger - INFO - Received event User added request with a trace id of 6e28026e-8fe7-11ec-a457-84c5a6bbb7d6
+2022-02-17 03:47:51,071 - basicLogger - INFO - Returned event User added response (Id: 6e28026e-8fe7-11ec-a457-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:51,559 - basicLogger - INFO - Received event rapid test reading request with a trace id of 6e743df0-8fe7-11ec-a502-84c5a6bbb7d6
+2022-02-17 03:47:51,559 - basicLogger - INFO - Returned event rapid test reading response (Id: 6e743df0-8fe7-11ec-a502-84c5a6bbb7d6 with status 201
+2022-02-17 03:47:53,634 - basicLogger - INFO - Received event User added request with a trace id of 6faf6f26-8fe7-11ec-a2c1-84c5a6bbb7d6
+2022-02-17 03:47:53,634 - basicLogger - INFO - Returned event User added response (Id: 6faf6f26-8fe7-11ec-a2c1-84c5a6bbb7d6 with status 201
+2022-02-21 01:27:56,167 - basicLogger - INFO - Received event rapid test reading request with a trace id of 8d495e97-92f8-11ec-bf59-84c5a6bbb7d6
+2022-02-21 01:27:56,168 - basicLogger - INFO - Returned event rapid test reading response (Id: 8d495e97-92f8-11ec-bf59-84c5a6bbb7d6 with status 404
+2022-02-24 00:57:58,720 - basicLogger - INFO - Received event rapid test reading request with a trace id of dbf24ba2-954f-11ec-b7fe-84c5a6bbb7d6
+2022-02-24 00:57:58,723 - basicLogger - INFO - Returned event rapid test reading response (Id: dbf24ba2-954f-11ec-b7fe-84c5a6bbb7d6 with status 405
+2022-02-24 01:04:35,238 - basicLogger - INFO - Received event rapid test reading request with a trace id of c84a9fd4-9550-11ec-9dfc-84c5a6bbb7d6
+2022-02-24 01:04:35,239 - basicLogger - INFO - Returned event rapid test reading response (Id: c84a9fd4-9550-11ec-9dfc-84c5a6bbb7d6 with status 405
+2022-02-24 01:12:19,960 - basicLogger - INFO - Received event rapid test reading request with a trace id of dd485043-9551-11ec-935d-84c5a6bbb7d6
+2022-02-24 01:12:19,961 - basicLogger - INFO - Returned event rapid test reading response (Id: dd485043-9551-11ec-935d-84c5a6bbb7d6 with status 405
+2022-02-24 01:13:01,729 - basicLogger - INFO - Received event rapid test reading request with a trace id of f62dce14-9551-11ec-a6cd-84c5a6bbb7d6
+2022-02-24 01:13:01,730 - basicLogger - INFO - Returned event rapid test reading response (Id: f62dce14-9551-11ec-a6cd-84c5a6bbb7d6 with status 405
+2022-02-24 01:13:32,148 - basicLogger - INFO - Received event rapid test reading request with a trace id of 085121e5-9552-11ec-bfda-84c5a6bbb7d6
+2022-02-24 01:13:32,148 - basicLogger - INFO - Returned event rapid test reading response (Id: 085121e5-9552-11ec-bfda-84c5a6bbb7d6 with status 405
+2022-02-24 01:15:01,451 - basicLogger - INFO - Received event rapid test reading request with a trace id of 3d8a4e4c-9552-11ec-8a93-84c5a6bbb7d6
+2022-02-24 01:15:01,451 - basicLogger - INFO - Returned event rapid test reading response (Id: 3d8a4e4c-9552-11ec-8a93-84c5a6bbb7d6 with status 405
+2022-02-24 01:32:24,618 - basicLogger - INFO - Received event rapid test reading request with a trace id of ab520a76-9554-11ec-a44f-84c5a6bbb7d6
+2022-02-24 01:32:24,619 - basicLogger - INFO - Returned event rapid test reading response (Id: ab520a76-9554-11ec-a44f-84c5a6bbb7d6 with status 405
+2022-02-24 02:12:08,842 - basicLogger - INFO - Received event rapid test reading request with a trace id of 386d6bef-955a-11ec-8115-84c5a6bbb7d6
+2022-02-24 02:12:08,842 - basicLogger - INFO - Returned event rapid test reading response (Id: 386d6bef-955a-11ec-8115-84c5a6bbb7d6 with status 405
+2022-02-24 02:13:04,949 - basicLogger - INFO - Received event rapid test reading request with a trace id of 59de0fe2-955a-11ec-9802-84c5a6bbb7d6
+2022-02-24 02:13:04,949 - basicLogger - INFO - Returned event rapid test reading response (Id: 59de0fe2-955a-11ec-9802-84c5a6bbb7d6 with status 405
+2022-02-24 02:14:31,841 - basicLogger - INFO - Received event rapid test reading request with a trace id of 8da85d3c-955a-11ec-b9f1-84c5a6bbb7d6
+2022-02-24 02:14:31,842 - basicLogger - INFO - Returned event rapid test reading response (Id: 8da85d3c-955a-11ec-b9f1-84c5a6bbb7d6 with status 405
+2022-02-24 02:16:34,669 - basicLogger - INFO - Received event rapid test reading request with a trace id of d5e1cf70-955a-11ec-a466-84c5a6bbb7d6
+2022-02-24 02:16:34,670 - basicLogger - INFO - Returned event rapid test reading response (Id: d5e1cf70-955a-11ec-a466-84c5a6bbb7d6 with status 405
+2022-02-24 02:16:55,791 - basicLogger - INFO - Received event rapid test reading request with a trace id of e3742b2f-955a-11ec-b97f-84c5a6bbb7d6
+2022-02-24 02:16:55,791 - basicLogger - INFO - Returned event rapid test reading response (Id: e3742b2f-955a-11ec-b97f-84c5a6bbb7d6 with status 405
+2022-02-24 02:18:08,444 - basicLogger - INFO - Received event rapid test reading request with a trace id of 0da86636-955b-11ec-b69f-84c5a6bbb7d6
+2022-02-24 02:18:08,445 - basicLogger - INFO - Returned event rapid test reading response (Id: 0da86636-955b-11ec-b69f-84c5a6bbb7d6 with status 405
+2022-02-24 02:18:27,200 - basicLogger - INFO - Received event rapid test reading request with a trace id of 19f40276-955b-11ec-a3f3-84c5a6bbb7d6
+2022-02-24 02:18:27,200 - basicLogger - INFO - Returned event rapid test reading response (Id: 19f40276-955b-11ec-a3f3-84c5a6bbb7d6 with status 405
+2022-02-24 02:20:51,238 - basicLogger - INFO - Received event rapid test reading request with a trace id of 6dbd99c8-955b-11ec-a35f-84c5a6bbb7d6
+2022-02-24 02:20:51,238 - basicLogger - INFO - Returned event rapid test reading response (Id: 6dbd99c8-955b-11ec-a35f-84c5a6bbb7d6 with status 405
+2022-02-24 02:25:47,678 - basicLogger - INFO - Received event User added request with a trace id of 20815b19-955c-11ec-ae82-84c5a6bbb7d6
+2022-02-24 02:25:47,679 - basicLogger - INFO - Returned event User added response (Id: 20815b19-955c-11ec-ae82-84c5a6bbb7d6 with status 405
+2022-02-24 02:29:00,535 - basicLogger - INFO - Received event rapid test reading request with a trace id of 90864b42-955c-11ec-855a-84c5a6bbb7d6
+2022-02-24 02:29:00,535 - basicLogger - INFO - Returned event rapid test reading response (Id: 90864b42-955c-11ec-855a-84c5a6bbb7d6 with status 405
