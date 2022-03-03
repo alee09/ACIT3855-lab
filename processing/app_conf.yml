@@ -4,5 +4,5 @@ datastore:
 scheduler:
   period_sec: 5
 eventstore:
-  url1: http://localhost:8090/readings/rapid-test
-  url2: http://localhost:8090/user/data
+  url1: http://acit3855-asynchronousmessaging.eastus.cloudapp.azure.com:8090/readings/rapid-test
+  url2: http://acit3855-asynchronousmessaging.eastus.cloudapp.azure.com:8090/user/data
