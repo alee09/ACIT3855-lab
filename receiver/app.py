@@ -39,6 +39,7 @@ def report_rapid_test_reading(body):
     return NoContent, 201
 
 def user_data(body):
+    print(f'\n\nI AM STARTING!!!\n\n')
     # reading_file = "./user_data.json"
     # user_json = json.dump(body, indent=2)
     # with open("user_date.json","w") as user_data:
@@ -46,6 +47,7 @@ def user_data(body):
     event_id = str(uuid1())
     body['trace_id'] = event_id
     headers = {"content-type": "application/json"}
+    print(f'\n\nI MADE THE TRACE ID AND HEADER!!!\n\n')
     # response = requests.post(
     #     app_config["eventstore2"]["url"], json=body, headers=headers)
 
@@ -56,13 +58,19 @@ def user_data(body):
     topic = client.topics[str.encode("events")] 
     producer = topic.get_sync_producer()
 
+    print(f'\n\nOMG I AM ABOUT TO TALK TO KAFKA!!!\n\n')
+
     msg = { "type": "user",  
             "datetime" :    
             datetime.now().strftime( 
                 "%Y-%m-%d %H:%M:%S.%f"),  
             "payload": body } 
     msg_str = json.dumps(msg) 
+
+    print(f'\n\nI SENT A MESSAGE TO KAFKA!!!\n\n')
+
     producer.produce(msg_str.encode('utf-8'))
+    print(f'\n\nim done ;(\n\n')
     return NoContent, 201
 
 app = connexion.FlaskApp(__name__, specification_dir='') 
