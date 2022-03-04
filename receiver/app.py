@@ -20,7 +20,7 @@ with open('log_conf.yml', 'r') as f:
 
 
 def report_rapid_test_reading(body):
-    headers = {"content-type": "application/json"}
+    # headers = {"content-type": "application/json"}
     event_id = str(uuid1())
     body['trace_id'] = event_id
 
@@ -52,17 +52,17 @@ def user_data(body):
     # logger.info(f"Received event User added request with a trace id of {event_id}")
     # logger.info(f"Returned event User added response (Id: {event_id} with status {response.status_code}")
 
-    # client = KafkaClient(hosts='acit3855-asynchronousmessaging.eastus.cloudapp.azure.com:9092') 
-    # topic = client.topics[str.encode("events")] 
-    # producer = topic.get_sync_producer()
+    client = KafkaClient(hosts='acit3855-asynchronousmessaging.eastus.cloudapp.azure.com:9092') 
+    topic = client.topics[str.encode("events")] 
+    producer = topic.get_sync_producer()
 
-    # msg = { "type": "user",  
-    #         "datetime" :    
-    #         datetime.now().strftime( 
-    #             "%Y-%m-%d %H:%M:%S.%f"),  
-    #         "payload": body } 
-    # msg_str = json.dumps(msg) 
-    # producer.produce(msg_str.encode('utf-8'))
+    msg = { "type": "user",  
+            "datetime" :    
+            datetime.now().strftime( 
+                "%Y-%m-%d %H:%M:%S.%f"),  
+            "payload": body } 
+    msg_str = json.dumps(msg) 
+    producer.produce(msg_str.encode('utf-8'))
     return NoContent, 201
 
 app = connexion.FlaskApp(__name__, specification_dir='') 
