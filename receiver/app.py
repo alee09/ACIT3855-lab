@@ -45,16 +45,16 @@ def user_data(body):
     #     user_data.write(user_json)
     event_id = str(uuid1())
     body['trace_id'] = event_id
-    headers = {"content-type": "application/json"}
+    # headers = {"content-type": "application/json"}
     # response = requests.post(
     #     app_config["eventstore2"]["url"], json=body, headers=headers)
 
     # logger.info(f"Received event User added request with a trace id of {event_id}")
     # logger.info(f"Returned event User added response (Id: {event_id} with status {response.status_code}")
 
-    client = KafkaClient(hosts='acit3855-asynchronousmessaging.eastus.cloudapp.azure.com:9092') 
-    topic = client.topics[str.encode("events")] 
-    producer = topic.get_sync_producer()
+    # client = KafkaClient(hosts='acit3855-asynchronousmessaging.eastus.cloudapp.azure.com:9092') 
+    # topic = client.topics[str.encode("events")] 
+    # producer = topic.get_sync_producer()
 
     # msg = { "type": "user",  
     #         "datetime" :    
