@@ -109,7 +109,7 @@ def init_scheduler():
 
 
 app = connexion.FlaskApp(__name__, specification_dir='') 
-app.add_api("openapi.yaml", strict_validation=True, validate_responses=True) 
+app.add_api("openapi.yaml", strict_validation=False, validate_responses=False) 
  
 if __name__ == "__main__": 
     # run our standalone gevent server
