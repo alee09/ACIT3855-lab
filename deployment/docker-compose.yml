@@ -60,15 +60,19 @@ services:
       - "db"
     ports:
       - "8090:8090"
-  # processor:
-  #   container_name: processor
-  #   build: ../processing
-  #   hostname: processor
-  #   depends_on:
-  #     - "storage"
-  #   network_mode: "host"
-  #   ports:
-  #     - "8100:8100"
+  processor:
+    container_name: processor
+    build: 
+      context: ../processing
+      network: "host"
+    hostname: processor
+    depends_on:
+      - "storage"
+    ports:
+      - target: 8100
+        published: 8100
+        protocol: tcp
+        mode: host
   audit_log: 
     container_name: audit_log
     build: ../Audit
