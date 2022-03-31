@@ -8,6 +8,7 @@ from sqlalchemy.orm import sessionmaker
 from base import Base
 from rapid_test import rapid_test
 from user import User
+from user import User
 import logging.config
 import yaml
 from uuid import uuid1

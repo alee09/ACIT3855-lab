@@ -44,7 +44,7 @@ def populate_stats():
     num_users = len(user_data_obj) + results["num_users"]
     age_list =[]
     positive_tests = [test['personal_health_number'] for test in rapid_test_obj if test['rapid_test_result'] == 'yes']
-    num_positive_tests = len(positive_tests) + results["num_positive_tests"]
+    num_positive_test = len(positive_tests) + results["num_positive_tests"]
     negative_tests = [test['personal_health_number'] for test in rapid_test_obj if test['rapid_test_result'] == 'no']
     num_negative_test = len(negative_tests) + results["num_negative_tests"]
     print(positive_tests)
@@ -68,12 +68,12 @@ def populate_stats():
         logger.error(f'something went wrong 500 error code')
     logger.debug(f'Total number of tests: {num_tests_results}. TraceID: {trace_id}')
     logger.debug(f'Total number of users: {num_users}. TraceID: {trace_id}')
-    logger.debug(f'Total number of positive tests: {num_positive_tests}. . TraceID: {trace_id}')
+    logger.debug(f'Total number of positive tests: {num_positive_test}. . TraceID: {trace_id}')
     logger.debug(f'Total number of negative tests: {num_negative_test}. TraceID: {trace_id}')
     logger.debug(f'Age group with the most positive cases{highest_positive_occuring_age}. TraceID: {trace_id}')
 
     session = DB_SESSION()
-    stat = Stats(num_tests_results, num_users, num_positive_tests, num_negative_test, highest_positive_occuring_age, current_time)
+    stat = Stats(num_tests_results, num_users, num_positive_test, num_negative_test, highest_positive_occuring_age, current_time)
     """    stats = Stats(stats["num_tests_results"],
                 stats["num_users"],
                 stats["num_positive_tests"],
@@ -84,7 +84,7 @@ def populate_stats():
     session.commit()
     session.close()
 
-    logger.debug(f'number of test results: {num_tests_results}, number of users: {num_users}, number of positive tests: {num_positive_tests}, number of negative tests: {num_negative_test}, Age with the most positive cases: {highest_positive_occuring_age}')
+    logger.debug(f'number of test results: {num_tests_results}, number of users: {num_users}, number of positive tests: {num_positive_test}, number of negative tests: {num_negative_test}, Age with the most positive cases: {highest_positive_occuring_age}')
     logger.info(f'stat processing has been completed.')
     return NoContent, 201
 

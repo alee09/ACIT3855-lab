@@ -20,7 +20,7 @@ with open('log_conf.yml', 'r') as f:
 
 
 def report_rapid_test_reading(body):
-    # headers = {"content-type": "application/json"}
+    headers = {"content-type": "application/json"}
     event_id = str(uuid1())
     body['trace_id'] = event_id
 
@@ -45,7 +45,7 @@ def user_data(body):
     #     user_data.write(user_json)
     event_id = str(uuid1())
     body['trace_id'] = event_id
-    # headers = {"content-type": "application/json"}
+    headers = {"content-type": "application/json"}
     # response = requests.post(
     #     app_config["eventstore2"]["url"], json=body, headers=headers)
 
@@ -66,7 +66,7 @@ def user_data(body):
     return NoContent, 201
 
 app = connexion.FlaskApp(__name__, specification_dir='') 
-app.add_api("openapi.yaml") 
+app.add_api("openapi.yaml", strict_validation=True, validate_responses=True) 
  
 if __name__ == "__main__": 
     app.run(port=8080)

@@ -51,7 +51,7 @@ components:
         num_users:
           type: integer
           example: 2500
-        num_positive_tests:
+        num_postivie_tests:
           type: integer
           example: 2000
         num_negative_tests:

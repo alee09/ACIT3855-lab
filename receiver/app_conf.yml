@@ -1,10 +1,10 @@
 version: 1
 eventstore1:
-  url: http://acit3855-asynchronousmessaging.eastus.cloudapp.azure.com:8090/readings/rapid-test
+  url: http://localhost:8090/readings/rapid-test
 eventstore2:
-  url: http://acit3855-asynchronousmessaging.eastus.cloudapp.azure.com:8090/user/data
+  url: http://localhost:8090/user/data
 eventstore3:
-  url: http://acit3855-asynchronousmessaging.eastus.cloudapp.azure.com:8100/stats
+  url: http://localhost:8100/stats
 
 events: 
 hostname: acit3855-asynchronousmessaging.eastus.cloudapp.azure.com
