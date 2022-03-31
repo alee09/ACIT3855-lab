@@ -12,7 +12,6 @@ with open('app_conf.yml', 'r') as f:
     hostname = app_conf['datastore']['hostname']
     port = app_conf['datastore']['port']
     db = app_conf['datastore']['db']
-    trace_id = app_conf['datastore']['trace_id']
 
 with open('log_conf.yml', 'r') as f: 
     log_config = yaml.safe_load(f.read())
@@ -86,7 +85,7 @@ def get_user_data(index):
     return { "message": "Not Found"}, 404
 
 app = connexion.FlaskApp(__name__, specification_dir='') 
-app.add_api("openapi.yml") 
+app.add_api("openapi.yml", strict_validation=True, validate_responses=True) 
  
 if __name__ == "__main__":
     app.run(port=8110)
