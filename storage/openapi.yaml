@@ -150,6 +150,7 @@ components:
         #the user name would be the PHN and the password would be the authoriziation. 
         password:
           type: string
+      type: object
           
     Manufacturer:
       required:
