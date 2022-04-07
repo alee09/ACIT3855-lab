@@ -96,6 +96,7 @@ def process_messages():
         logger.info("Message: %s" % msg) 
  
         payload = msg["payload"] 
+        logger.info(payload)
         print(f"\nStart")
         if msg["type"] == "rapid_test": # Change this to your event type 
             # Store the event1 (i.e., the payload) to the DB 
