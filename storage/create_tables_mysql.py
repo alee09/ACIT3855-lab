@@ -1,6 +1,6 @@
 import mysql.connector 
  
-db_conn = mysql.connector.connect(host="acit3855-asynchronousmessaging.eastus.cloudapp.azure.com", user="user", 
+db_conn = mysql.connector.connect(host="localhost", user="user", 
 password="password", database="events")   
  
 db_cursor = db_conn.cursor() 
