@@ -75,6 +75,7 @@ def get_user_data(timestamp):
 
 def process_messages(): 
     """ Process event messages """ 
+    logger.info("\n\ntest\n\n")
     hostname = "%s:%d" % (app_conf["events"]["hostname"],   
                           app_conf["events"]["port"]) 
     client = KafkaClient(hosts=hostname) 
@@ -89,6 +90,7 @@ def process_messages():
  
     # This is blocking - it will wait for a new message 
     for msg in consumer: 
+        logger.info("\n\nbeginning of for\n\n")
         msg_str = msg.value.decode('utf-8') 
         msg = json.loads(msg_str) 
         logger.info("Message: %s" % msg) 
@@ -130,9 +132,10 @@ def process_messages():
             session.close()
         # Commit the new message as being read 
         consumer.commit_offsets()
+        logger.info("\n\nend of for\n\n")
 
 app = connexion.FlaskApp(__name__, specification_dir='') 
-app.add_api("openapi.yaml", strict_validation=False, validate_responses=False) 
+app.add_api("openapi.yaml", strict_validation=True, validate_responses=True) 
  
 if __name__ == "__main__":
     t1 = Thread(target= process_messages)
