@@ -2,8 +2,8 @@ from datetime import datetime
 import connexion
 from connexion import NoContent
 import json
-import requests
-from sqlalchemy import false
+# import requests
+# from sqlalchemy import false
 import yaml
 import logging.config
 from uuid import uuid1
